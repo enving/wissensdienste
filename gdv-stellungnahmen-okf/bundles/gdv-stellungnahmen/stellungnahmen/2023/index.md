@@ -1,0 +1,61 @@
+# Stellungnahmen 2023
+
+57 Dokument(e), neueste zuerst.
+
+- [Konsultation zur Umsetzung der Offenlegungsverordnung](konsultation-zur-umsetzung-der-offenlegungsverordnung.md) — 2023-12-18 · Stellungnahme · Nachhaltigkeit
+- [Stellungnahme zur Einführung einer gesetzlichen Pflichtversicherung für Insolvenzverwalter](stellungnahme-zur-einfuhrung-einer-gesetzlichen-pflichtversicherung-fu.md) — 2023-12-07 · Stellungnahme · Schaden & Unfall
+- [GDV-Stellungnahme zu den Regelungen der Bundesrechtsanwaltsordnung und der Patentanwaltsordnung zum Fremdbesitz](gdv-stellungnahme-zu-den-regelungen-der-bundesrechtsanwaltsordnung-und.md) — 2023-12-05 · Stellungnahme · Schaden & Unfall
+- [GDV-Stellungnahme zu einem Vorschlag der EU-Kommission für eine Verordnung zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr (PDF)](gdv-stellungnahme-zu-einem-vorschlag-der-eu-kommission-fur-eine-verord.md) — 2023-11-16 · Stellungnahme · Wirtschaft, Schaden & Unfall
+- [Positionspapier zur RVG-Erhöhung 2024/2025](positionspapier-zur-rvg-erhohung-2024-2025.md) — 2023-11-08 · Stellungnahme · Schaden & Unfall, Politik
+- [Stellungnahme zum Gesetzentwurf zur Regelung hybrider und virtueller Kammerversammlungen](stellungnahme-zum-gesetzentwurf-zur-regelung-hybrider-und-virtueller-k.md) — 2023-10-31 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zum Referentenentwurf eines Gesundheitsdatennutzungsgesetzes (GDNG - Anlage) v. 4. August 2023](stellungnahme-zum-referentenentwurf-eines-gesundheitsdatennutzungsgese.md) — 2023-09-29 · Stellungnahme
+- [Stellungnahme zum Referentenentwurf des Finanzkriminalitätsbekämpfungsgesetzes](stellungnahme-zum-referentenentwurf-des-finanzkriminalitatsbekampfungs.md) — 2023-09-28 · Stellungnahme · Wirtschaft
+- [Positionspapier zu Basismodellen und Generativer KI für die Trilogverhandlungen zum AI Act](positionspapier-zu-basismodellen-und-generativer-ki-fur-die-trilogverh.md) — 2023-09-28 · Positionspapier · Künstliche Intelligenz, Digitalisierung
+- [Stellungnahme zum Thüringer Architekten- und Ingenieurkammergesetz](stellungnahme-zum-thuringer-architekten-und-ingenieurkammergesetz.md) — 2023-09-15 · Stellungnahme · GDV, Gesellschaft, Pflichtversicherung
+- [Stellungnahme zur Umsetzung der KH-Richtlinie (EU) 2021/2118 (Stand: 11.09.2023)](stellungnahme-zur-umsetzung-der-kh-richtlinie-eu-2021-2118-stand-11-09.md) — 2023-09-12 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zum Bundesdatenschutzgesetz](stellungnahme-zum-bundesdatenschutzgesetz.md) — 2023-09-07 · Stellungnahme · Digitalisierung, Regulierung
+- [Stellungnahme zu den Vorschlägen der EU-Kommission für eine europäische Kleinanlegerstrategie (Retail Investment Strategy, RIS)](stellungnahme-zu-den-vorschlagen-der-eu-kommission-fur-eine-europaisch.md) — 2023-08-23 · Stellungnahme · Regulierung
+- [Position paper on the EU Commission's proposals for a European retail investment strategy](position-paper-on-the-eu-commission-s-proposals-for-a-european-retail.md) — 2023-08-23 · Stellungnahme · Regulierung
+- [Stellungnahme zur Einführung eines Leitentscheidungsverfahrens beim BGH](stellungnahme-zur-einfuhrung-eines-leitentscheidungsverfahrens-beim-bg.md) — 2023-08-21 · Stellungnahme · Politik
+- [Stellungnahme zum Mobilitätsdatennutzungsgesetz](stellungnahme-zum-mobilitatsdatennutzungsgesetz.md) — 2023-08-21 · Stellungnahme · Digitalisierung, Mobilität
+- [Stellungnahme zum Zukunftsfinanzierungsgesetz](stellungnahme-zum-zukunftsfinanzierungsgesetz.md) — 2023-08-16 · Stellungnahme · Regulierung, Politik
+- [Stellungnahme zum Legislativvorschlag der Europäischen Kommission zur Einführung des digitalen Euro](stellungnahme-zum-legislativvorschlag-der-europaischen-kommission-zur.md) — 2023-08-09 · Stellungnahme · Wirtschaft, Digitalisierung
+- [Stellungnahme zum Rahmenwerk für den Zugang zu Finanzdaten („FiDA“)](stellungnahme-zum-rahmenwerk-fur-den-zugang-zu-finanzdaten-fida.md) — 2023-08-01 · Stellungnahme · Regulierung, Digitalisierung
+- [Stellungnahme zum Referentenentwurf zum Mindeststeuergesetz](stellungnahme-zum-referentenentwurf-zum-mindeststeuergesetz.md) — 2023-07-26 · Stellungnahme · Regulierung
+- [Stellungnahme zum Wachstumschancengesetz](stellungnahme-zum-wachstumschancengesetz.md) — 2023-07-26 · Stellungnahme · Regulierung
+- [GDV-Positionspapier zum Beginn der Trilogverhandlungen zur KI-Verordnung](gdv-positionspapier-zum-beginn-der-trilogverhandlungen-zur-ki-verordnu.md) — 2023-07-17 · Positionspapier · Künstliche Intelligenz
+- [Stellungnahme zum Entwurf des PAI-Review der ESA abgegeben](stellungnahme-zum-entwurf-des-pai-review-der-esa-abgegeben.md) — 2023-07-17 · Stellungnahme
+- [CSDDD: German Insurance Association (GDV)’s comments for the Trialogue negotiations](csddd-german-insurance-association-gdv-s-comments-for-the-trialogue-ne.md) — 2023-07-12 · Stellungnahme · Nachhaltigkeit
+- [The consequences of insurers’ due diligence obligations for the real economy](the-consequences-of-insurers-due-diligence-obligations-for-the-real-ec.md) — 2023-07-12 · Stellungnahme · Nachhaltigkeit
+- [Stellungnahme ESRS Set 1 (english)](stellungnahme-esrs-set-1-english.md) — 2023-07-10 · Stellungnahme · Nachhaltigkeit
+- [Stellungnahme zum Referentenentwurf des Leitentscheidungsverfahrensgesetzes](stellungnahme-zum-referentenentwurf-des-leitentscheidungsverfahrensges.md) — 2023-07-10 · Stellungnahme
+- [Positionspapier: Digitale Identitäten in Deutschland](positionspapier-digitale-identitaten-in-deutschland.md) — 2023-07-06 · Positionspapier · Digitalisierung
+- [Positionspapier "Finanzierung der Transformation"](positionspapier-finanzierung-der-transformation.md) — 2023-06-29 · Positionspapier · Versicherungswirtschaft
+- [Reform des Arzneimittelrechts - EU Pharma Paket](reform-des-arzneimittelrechts-eu-pharma-paket.md) — 2023-06-22 · Stellungnahme
+- [Stellungnahme: Evaluierung des Gesetzes zur Einführung eines Anspruchs auf Hinterbliebenengeld](stellungnahme-evaluierung-des-gesetzes-zur-einfuhrung-eines-anspruchs.md) — 2023-06-20 · Stellungnahme · Schaden & Unfall
+- [Neufassung des Thüringer Gesetzes über die Öffentlich bestellten Vermessungsingenieur/-innen (ThürGÖbVI)](neufassung-des-thuringer-gesetzes-uber-die-offentlich-bestellten-verme.md) — 2023-06-14 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zum Bericht der Bundesregierung an die Regierungschef/-innen der Länder zur Einführung einer Pflichtversicherung für Elementarschäden](stellungnahme-zum-bericht-der-bundesregierung-an-die-regierungschef-in.md) — 2023-06-14 · Stellungnahme · Klimafolgenanpassung, Schaden & Unfall
+- [Stellungnahme zum Bundes-Klimaanpassungsgesetz](stellungnahme-zum-bundes-klimaanpassungsgesetz.md) — 2023-06-13 · Stellungnahme · Klima
+- [Stellungnahme zum Regierungsgesetzesentwurf zur Umsetzung der KH-Richtlinie in deutsches Recht](stellungnahme-zum-regierungsgesetzesentwurf-zur-umsetzung-der-kh-richt.md) — 2023-06-07 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zur Umsetzung der Mindestbesteuerungsrichtlinie](stellungnahme-zur-umsetzung-der-mindestbesteuerungsrichtlinie.md) — 2023-06-05 · Stellungnahme · Regulierung
+- [Stellungnahme zum Entwurf für ein Zukunftsfinanzierungsgesetz](stellungnahme-zum-entwurf-fur-ein-zukunftsfinanzierungsgesetz.md) — 2023-06-01 · Stellungnahme · Regulierung
+- [Stellungnahme zum Entwurf des Gebäudeenergiegesetzes](stellungnahme-zum-entwurf-des-gebaudeenergiegesetzes.md) — 2023-05-31 · Stellungnahme · Versicherungswirtschaft
+- [Stellungnahme Pauschalreiserecht](stellungnahme-pauschalreiserecht.md) — 2023-05-29 · Stellungnahme · Schaden & Unfall, Regulierung
+- [Stellungnahme zu elektronischer Transportversicherungspolice](stellungnahme-zu-elektronischer-transportversicherungspolice.md) — 2023-05-29 · Stellungnahme · Digitalisierung
+- [Stellungnahme zum Insolvenzrecht](stellungnahme-zum-insolvenzrecht.md) — 2023-05-29 · Stellungnahme · Schaden & Unfall, Regulierung
+- [Stellungnahme Begebbaren Beförderungsdokumenten](stellungnahme-begebbaren-beforderungsdokumenten.md) — 2023-05-29 · Stellungnahme · Digitalisierung
+- [Stellungnahme Bauträger](stellungnahme-bautrager.md) — 2023-05-29 · Stellungnahme · Schaden & Unfall, Regulierung
+- [Stellungnahme zur möglichen Änderung des § 142 StGB (Unfallflucht)](stellungnahme-zur-moglichen-anderung-des-142-stgb-unfallflucht.md) — 2023-05-24 · Stellungnahme · Mobilität, Schaden & Unfall
+- [Stellungnahme zur Taxonomie-Konsultation der EU-Kommission](stellungnahme-zur-taxonomie-konsultation-der-eu-kommission.md) — 2023-05-04 · Stellungnahme · Nachhaltigkeit, Regulierung
+- [Verbände äußern sich zur Mindeststeuerumsetzung](verbande-aussern-sich-zur-mindeststeuerumsetzung.md) — 2023-04-28 · Stellungnahme · Regulierung
+- [Stellungnahme zum Referentenentwurf eines Gesetzes zur Regelung hybrider und virtueller Versammlungen](stellungnahme-zum-referentenentwurf-eines-gesetzes-zur-regelung-hybrid.md) — 2023-04-27 · Stellungnahme · Wirtschaft, Schaden & Unfall
+- [Stellungnahme zur Umsetzung der KH-Richtlinie (EU) 2021/2118 (Stand: 21.03.2023)](stellungnahme-zur-umsetzung-der-kh-richtlinie-eu-2021-2118-stand-21-03.md) — 2023-04-27 · Stellungnahme · Schaden & Unfall, Mobilität
+- [Stellungnahme zu ESMA Leitlinien für nachhaltige Fonds](stellungnahme-zu-esma-leitlinien-fur-nachhaltige-fonds.md) — 2023-03-29 · Stellungnahme · Nachhaltigkeit
+- [Bei der Verbandsklagerichtlinie die Interessen von Verbrauchern und Unternehmen ausgewogen berücksichtigen](bei-der-verbandsklagerichtlinie-die-interessen-von-verbrauchern-und-un.md) — 2023-03-03 · Stellungnahme · Wirtschaft
+- [Stellungnahme zum Onlinezugangsgesetz-Änderungsgesetz](stellungnahme-zum-onlinezugangsgesetz-anderungsgesetz.md) — 2023-02-28 · Stellungnahme · Digitalisierung, Mobilität, Rente & Vorsorge
+- [Verbändestellungnahme zum Referentenentwurf zur Änderung des Onlinezugangsgesetzes](verbandestellungnahme-zum-referentenentwurf-zur-anderung-des-onlinezug.md) — 2023-02-28 · Stellungnahme
+- [Vorschläge der Wirtschaft zur Steuerpolitik](vorschlage-der-wirtschaft-zur-steuerpolitik.md) — 2023-02-21 · Stellungnahme · Steuern
+- [GDV regt in Stellungnahme zu Greenwashing Klarstellungen an](gdv-regt-in-stellungnahme-zu-greenwashing-klarstellungen-an.md) — 2023-01-25 · Stellungnahme · Politik
+- [Stellungnahme zu den Prüfaufträgen der "Fokusgruppe private Altersvorsorge"](stellungnahme-zu-den-prufauftragen-der-fokusgruppe-private-altersvorso.md) — 2023-01-17 · Stellungnahme · Politik, Rente & Vorsorge
+- [Stellungnahme zum BaFin-Entwurf für ein „Merkblatt zu wohlverhaltensaufsichtlichen Aspekten bei kapitalbildenden Lebensversicherungsprodukten“](stellungnahme-zum-bafin-entwurf-fur-ein-merkblatt-zu-wohlverhaltensauf.md) — 2023-01-16 · Stellungnahme · Politik, Rente & Vorsorge
+- [Stellungnahme zu EU-Standards für Nachhaltigkeitsberichterstattung](stellungnahme-zu-eu-standards-fur-nachhaltigkeitsberichterstattung.md) — 2023-01-13 · Stellungnahme · Politik

@@ -1,0 +1,181 @@
+---
+type: Fachbereich-Register (Entwurf)
+title: "Fachbereich (Entwurf): Recht und Regulierung (übergreifend)"
+description: "Entwurf einer Fachbereichs-Zuordnung: GDV-Stellungnahmen mit Bezug zu Recht und Regulierung (übergreifend). Von den Fachbereichen zu prüfen."
+status: entwurf
+fachbereich: "Recht und Regulierung (übergreifend)"
+anzahl: 164
+tags: ["gdv", "fachbereich-entwurf", "recht-und-regulierung-ubergreifend"]
+timestamp: 2026-08-17T07:10:58Z
+---
+
+# Fachbereich (Entwurf): Recht und Regulierung (übergreifend)
+
+> Automatischer Entwurf aus der Themen-Zuordnung der Website. Von den Fachbereichen zu bestätigen oder zu korrigieren (siehe [Rote Linien](/register/rote-linien.md) und README).
+
+164 zugeordnete(s) Dokument(e), neueste zuerst.
+
+- [GDV position on minimum common standards for Insurance Guarantee Schemes (IGS) in the EU](/stellungnahmen/2026/gdv-position-on-minimum-common-standards-for-insurance-guarantee-schem.md) — 2026-06-26 · Regulierung, Europa
+- [Wirtschaft kritisiert Buchführungsdatenschnittstelle](/stellungnahmen/2026/wirtschaft-kritisiert-buchfuhrungsdatenschnittstelle.md) — 2026-06-16 · Regulierung
+- [Stellungnahme zum Jahressteuergesetz 2026](/stellungnahmen/2026/stellungnahme-zum-jahressteuergesetz-2026.md) — 2026-06-15 · Regulierung
+- [Reform des Statusfeststellungsverfahrens](/stellungnahmen/2026/reform-des-statusfeststellungsverfahrens.md) — 2026-06-10 · Regulierung
+- [Stellungnahme zum Entwurf der Darlehensvermittlungsverordnung](/stellungnahmen/2026/stellungnahme-zum-entwurf-der-darlehensvermittlungsverordnung.md) — 2026-06-10 · Regulierung
+- [Stellungnahme zur Konsultation zu Exits und Sekundärmärkten (Englisch)](/stellungnahmen/2026/stellungnahme-zur-konsultation-zu-exits-und-sekundarmarkten-englisch.md) — 2026-05-26 · Regulierung
+- [Positionspapier (engl.): E6 insurance markets call for decisive action in support of a resilient and future-oriented EU economy](/stellungnahmen/2026/positionspapier-engl-e6-insurance-markets-call-for-decisive-action-in.md) — 2026-05-26 · Regulierung
+- [Regierungsentwurf VSAAG - Positionen der Versicherungswirtschaft](/stellungnahmen/2026/regierungsentwurf-vsaag-positionen-der-versicherungswirtschaft.md) — 2026-05-19 · Regulierung
+- [Stellungnahme zum Gesetzentwurf für ein Versicherungs-Sanierungs-Abwicklungs-und- Aufsichtsänderungs-Gesetz (VSAAG)](/stellungnahmen/2026/stellungnahme-zum-gesetzentwurf-fur-ein-versicherungs-sanierungs-abwic.md) — 2026-05-19 · Regulierung
+- [Stellungnahme zum Entwurf der Darlehensvermittlungs-Verordnung](/stellungnahmen/2026/stellungnahme-zum-entwurf-der-darlehensvermittlungs-verordnung.md) — 2026-05-07 · —
+- [Stellungnahme zum Entwurf eines ersten Unternehmensstatistikreformgesetzes](/stellungnahmen/2026/stellungnahme-zum-entwurf-eines-ersten-unternehmensstatistikreformgese.md) — 2026-04-22 · Regulierung
+- [Positionspapier zur „Modernisierungsagenda für Staat und Verwaltung (Bund)"](/stellungnahmen/2026/positionspapier-zur-modernisierungsagenda-fur-staat-und-verwaltung-bun.md) — 2026-04-21 · Regulierung
+- [Positionen zur „Modernisierungsagenda für Staat und Verwaltung (Bund)“ (Kurzversion)](/stellungnahmen/2026/positionen-zur-modernisierungsagenda-fur-staat-und-verwaltung-bund-kur.md) — 2026-04-21 · Regulierung
+- [Stellungnahme zum Gesetzentwurf der Bundesregierung zur Änderung des Steuerberatungsgesetzes](/stellungnahmen/2026/stellungnahme-zum-gesetzentwurf-der-bundesregierung-zur-anderung-des-s.md) — 2026-04-15 · Regulierung
+- [Stellungnahme zum Referentenentwurf eines Gesetzes für mehr Gerechtigkeit durch die Stärkung der Zollverwaltung und die Bekämpfung der Finanzkriminalität](/stellungnahmen/2026/stellungnahme-zum-referentenentwurf-eines-gesetzes-fur-mehr-gerechtigk.md) — 2026-03-31 · Regulierung
+- [Stellungnahme zum Entwurf eines Neunten Gesetzes zur Änderung des Steuerberatungsgesetzes](/stellungnahmen/2026/stellungnahme-zum-entwurf-eines-neunten-gesetzes-zur-anderung-des-steu.md) — 2026-03-25 · Regulierung
+- [Stellungnahme zu weiteren Vereinfachungen und Anpassungen bei der Mindeststeuer](/stellungnahmen/2026/stellungnahme-zu-weiteren-vereinfachungen-und-anpassungen-bei-der-mind.md) — 2026-03-25 · Regulierung
+- [Ein neues Mindset im EU-Steuerrecht – Vorschläge zur Vereinfachung](/stellungnahmen/2026/ein-neues-mindset-im-eu-steuerrecht-vorschlage-zur-vereinfachung-197876.md) — 2026-03-17 · Regulierung
+- [Stellungnahme zum Referentenentwurf für ein Versicherungssanierungs-, -abwicklungs- und -aufsichtsänderungsgesetz (VSAAG)](/stellungnahmen/2026/stellungnahme-zum-referentenentwurf-fur-ein-versicherungssanierungs-ab.md) — 2026-03-10 · Regulierung
+- [Vorschläge zur Entbürokratisierung des Steuerrechts](/stellungnahmen/2026/vorschlage-zur-entburokratisierung-des-steuerrechts.md) — 2026-01-22 · Regulierung
+- [Umsatzsteuerbefreiung für die Verpachtung von Betriebsvorrichtungen](/stellungnahmen/2026/umsatzsteuerbefreiung-fur-die-verpachtung-von-betriebsvorrichtungen.md) — 2026-01-08 · Regulierung
+- [Stellungnahme zum Regierungsentwurf des Bankenrichtlinienumsetzungs- und Bürokratieentlastungsgesetzes (BRUBEG)](/stellungnahmen/2025/stellungnahme-zum-regierungsentwurf-des-bankenrichtlinienumset-zungs-u.md) — 2025-12-22 · Regulierung, Politik
+- [Referententwurf des BMJV zur Neuordnung auf- sichtsrechtlicher Verfahren und zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe](/stellungnahmen/2025/referententwurf-des-bmjv-zur-neuordnung-auf-sichtsrechtlicher-verfahre.md) — 2025-11-17 · —
+- [Stellungnahme zum Regierungsentwurf zur Änderung des Gesetzes gegen den unlauteren Wettbewerb](/stellungnahmen/2025/stellungnahme-zum-regierungsentwurf-zur-anderung-des-gesetzes-gegen-de.md) — 2025-10-24 · Politik, GDV
+- [Positionspapier zur wirksamen Begrenzung von Containerverlusten auf hoher See](/stellungnahmen/2025/positionspapier-zur-wirksamen-begrenzung-von-containerverlusten-auf-ho.md) — 2025-10-22 · —
+- [Stellungnahme zum CSRD-Umsetzungsgesetz](/stellungnahmen/2025/stellungnahme-zum-csrd-umsetzungsgesetz.md) — 2025-10-16 · Regulierung
+- [GDV-Stellungnahme zur EIOPA-Konsultation über aufsichtsrechtliche Melde- und Offenlegungspflichten (engl.)](/stellungnahmen/2025/gdv-stellungnahme-zur-eiopa-konsultation-uber-aufsichtsrechtliche-meld.md) — 2025-10-13 · Regulierung
+- [Stellungnahme zum Gesetzentwurf zur Modernisierung und Digitalisierung der Schwarzarbeitsbekämpfung](/stellungnahmen/2025/stellungnahme-zum-gesetzentwurf-zur-modernisierung-und-digitalisierung.md) — 2025-10-09 · Regulierung
+- [Stellungnahme zum Regierungsentwurf eines Gesetzes zur Änderung des Verbrauchervertrags- und des Versicherungsvertragsrechts](/stellungnahmen/2025/stellungnahme-zum-regierungsentwurf-eines-gesetzes-zur-anderung-des-ve.md) — 2025-10-01 · Regulierung
+- [Steuerliche Behandlung des Arbeitslohns nach DBA](/stellungnahmen/2025/steuerliche-behandlung-des-arbeitslohns-nach-dba.md) — 2025-09-29 · Regulierung
+- [Stellungnahme zur Streichung der Gewerbeerlaubnisfreiheit für Vermittler in Nebentätigkeit](/stellungnahmen/2025/stellungnahme-zur-streichung-der-gewerbeerlaubnisfreiheit-fur-vermittl.md) — 2025-09-15 · Regulierung
+- [Stellungnahme zur nachgelagerten Verordnung von Solvency II (engl.)](/stellungnahmen/2025/stellungnahme-zur-nachgelagerten-verordnung-von-solvency-ii-engl.md) — 2025-09-05 · Regulierung
+- [Stellungnahme zum Referentenentwurf eines Gesetzes zur Förderung privater Investitionen und des Finanzstandorts](/stellungnahmen/2025/stellungnahme-zum-referentenentwurf-eines-gesetzes-zur-forderung-priva.md) — 2025-08-29 · Regulierung
+- [Wirtschaft fordert weitere Vereinfachungen bei der Umsetzung der globalen Mindeststeuer](/stellungnahmen/2025/wirtschaft-fordert-weitere-vereinfachungen-bei-der-umsetzung-der-globa.md) — 2025-08-11 · Regulierung
+- [Stellungnahme zur Änderung des Verbrauchervertrags- und des Versicherungsvertragsrechts](/stellungnahmen/2025/stellungnahme-zur-anderung-des-verbrauchervertrags-und-des-versicherun.md) — 2025-08-01 · Regulierung
+- [Positionspapier zur Umsetzung der Solvency-II-Änderungsrichtlinie in das Versicherungsaufsichtsgesetz (VAG)](/stellungnahmen/2025/positionspapier-zur-umsetzung-der-solvency-ii-anderungsrichtlinie-in-d.md) — 2025-07-31 · Regulierung, Politik
+- [Eingabe zu steuerlichen Arbeitsanreizen](/stellungnahmen/2025/eingabe-zu-steuerlichen-arbeitsanreizen.md) — 2025-07-22 · Regulierung
+- [Gemeinsame Stellungnahme des GDV, VDIK, VDA und ZKA zur Umsetzung der Richtlinie über Verbraucherkreditverträge](/stellungnahmen/2025/gemeinsame-stellungnahme-des-gdv-vdik-vda-und-zka-zur-umsetzung-der-ri.md) — 2025-07-21 · Regulierung
+- [GDV-Stellungnahme zur Umsetzung der Richtline über Verbraucherkreditverträge](/stellungnahmen/2025/gdv-stellungnahme-zur-umsetzung-der-richtline-uber-verbraucherkreditve.md) — 2025-07-21 · Regulierung
+- [Referentenentwurf eines DAC-8-Umsetzungsgesetzes](/stellungnahmen/2025/referentenentwurf-eines-dac-8-umsetzungsgesetzes.md) — 2025-07-15 · Regulierung
+- [GDV-Stellungnahme zu EU-Spar- und Anlagekonten](/stellungnahmen/2025/gdv-stellungnahme-zu-eu-spar-und-anlagekonten.md) — 2025-07-10 · Regulierung
+- [Positionspapier zur Makroprudentiellen Aufsicht in der Versicherungswirtschaft](/stellungnahmen/2025/positionspapier-zur-makroprudentiellen-aufsicht-in-der-versicherungswi.md) — 2025-07-01 · Regulierung
+- [Wirtschaft begrüßt Steuersofortprogramm](/stellungnahmen/2025/wirtschaft-begrusst-steuersofortprogramm.md) — 2025-06-23 · Regulierung
+- [Stellungnahme zur Reform der Offenlegungsverordnung (SFDR) (englisch)](/stellungnahmen/2025/stellungnahme-zur-reform-der-offenlegungsverordnung-sfdr-englisch.md) — 2025-06-05 · Regulierung
+- [Stärkung der Wettbewerbsfähigkeit durch Vereinfachungen im nationalen Recht](/stellungnahmen/2025/starkung-der-wettbewerbsfahigkeit-durch-vereinfachungen-im-nationalen.md) — 2025-05-28 · Politik, Regulierung
+- [Positionspapier zur Ausweitung der privaten Verkehrsinfrastrukturfinanzierung](/stellungnahmen/2025/positionspapier-zur-ausweitung-der-privaten-verkehrsinfrastrukturfinan.md) — 2025-03-27 · Regulierung, Gesellschaft, Versicherungswirtschaft
+- [Stellungnahme zum Gesetz zur Umsetzung der Richtlinie zum ökologischen Wandel](/stellungnahmen/2025/stellungnahme-zum-gesetz-zur-umsetzung-der-richtlinie-zum-okologischen.md) — 2025-03-05 · Regulierung
+- [Positionspapier Maintaining Europe's Competitive Edge in Insurance and Beyond](/stellungnahmen/2025/positionspapier-maintaining-europe-s-competitive-edge-in-insurance-and.md) — 2025-02-20 · Regulierung
+- [Stellungnahme zum Diskussionsentwurf eines Gesetzes zur Änderung des Verbrauchervertrags- und des Versicherungsvertragsrechts](/stellungnahmen/2025/stellungnahme-zum-diskussionsentwurf-eines-gesetzes-zur-anderung-des-v.md) — 2025-02-13 · Regulierung
+- [Verbändestellungnahme zur Mindeststeueranpassung](/stellungnahmen/2025/verbandestellungnahme-zur-mindeststeueranpassung.md) — 2025-02-10 · Regulierung
+- [Stellungnahme zum öffentlichen Entwurf der BaFin zum Grundsatz der unternehmerischen Vorsicht von Versicherungsunternehmen unter Solvency II](/stellungnahmen/2025/stellungnahme-zum-offentlichen-entwurf-der-bafin-zum-grundsatz-der-unt.md) — 2025-02-04 · Regulierung
+- [EMIR 3.0 - Beschränkung der Berichtspflichten zum Active Account Requirement gefordert](/stellungnahmen/2025/emir-3-0-beschrankung-der-berichtspflichten-zum-active-account-require.md) — 2025-01-27 · Regulierung
+- [Stellungnahme zum EU-Vertragsverletzungsverfahren zur Umsetzung der Versicherungsvertriebsrichtlinie](/stellungnahmen/2025/stellungnahme-zum-eu-vertragsverletzungsverfahren-zur-umsetzung-der-ve.md) — 2025-01-16 · Regulierung
+- [Positionspapier zu Überarbeitung der Richtlinie über die alternative Streitbeilegung in Verbraucherangelegenheiten (ADR-Richtlinie)](/stellungnahmen/2024/positionspapier-zu-uberarbeitung-der-richtlinie-uber-die-alternative-s.md) — 2024-12-03 · Regulierung
+- [Positionspapier zur Umsetzung der Richtlinie zur Stärkung der Verbraucher für den ökologischen Wandel](/stellungnahmen/2024/positionspapier-zur-umsetzung-der-richtlinie-zur-starkung-der-verbrauc.md) — 2024-11-18 · Versicherungswirtschaft
+- [Positionspapier für die Trilog-Verhandlungen zur Richtlinie über Umweltaussagen (Green Claims)](/stellungnahmen/2024/positionspapier-fur-die-trilog-verhandlungen-zur-richtlinie-uber-umwel.md) — 2024-11-18 · Regulierung
+- [Stellungnahme zum NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz](/stellungnahmen/2024/stellungnahme-zum-nis-2-umsetzungs-und-cybersicherheitsstarkungsgesetz.md) — 2024-11-01 · Regulierung
+- [Anmerkungen zu einem geplanten Beschäftigtendatengesetz](/stellungnahmen/2024/anmerkungen-zu-einem-geplanten-beschaftigtendatengesetz.md) — 2024-11-01 · —
+- [Stellungnahme: EIOPA-Konsultation zur Behandlung von direktem Exposure gegenüber einer Central Clearingparty (CCP)](/stellungnahmen/2024/stellungnahme-eiopa-konsultation-zur-behandlung-von-direktem-exposure.md) — 2024-10-30 · Regulierung
+- [GDV-Stellungnahme zur Umsetzung des neuen Proportionalitätsrahmens unter Solvency II](/stellungnahmen/2024/gdv-stellungnahme-zur-umsetzung-des-neuen-proportionalitatsrahmens-unt.md) — 2024-10-25 · Regulierung
+- [Positionspapier – Den Markt für Verbriefungen stärken (Englisch)](/stellungnahmen/2024/positionspapier-den-markt-fur-verbriefungen-starken-englisch.md) — 2024-10-09 · Regulierung
+- [Stellungnahme zum Regierungsentwurf des Jahressteuergesetzes 2024](/stellungnahmen/2024/stellungnahme-zum-regierungsentwurf-des-jahressteuergesetzes-2024.md) — 2024-10-08 · Regulierung
+- [Stellungnahme zum Steuerfortentwicklungsgesetz](/stellungnahmen/2024/stellungnahme-zum-steuerfortentwicklungsgesetz.md) — 2024-10-08 · Regulierung
+- [Stellungnahme zu den Trilog-Verhandlungen zur EU-Kleinanlegerstrategie (in Englisch)](/stellungnahmen/2024/stellungnahme-zu-den-trilog-verhandlungen-zur-eu-kleinanlegerstrategie.md) — 2024-09-10 · Regulierung
+- [Stellungnahme zur Novellierung des EU-Arzneimittelrechts](/stellungnahmen/2024/stellungnahme-zur-novellierung-des-eu-arzneimittelrechts.md) — 2024-09-06 · Regulierung
+- [Stellungnahme zum Gesetz zur Verbesserung des Schutzes von gewaltbetroffenen Personen](/stellungnahmen/2024/stellungnahme-zum-gesetz-zur-verbesserung-des-schutzes-von-gewaltbetro.md) — 2024-09-06 · Gesellschaft
+- [Stellungnahme zum Fondsmarktstärkungsgesetz](/stellungnahmen/2024/stellungnahme-zum-fondsmarktstarkungsgesetz.md) — 2024-09-06 · Regulierung
+- [Stellungnahme zur Erleichterung im Hinblick auf das Schriftformerfordernis bei Kündigung des Bauvertrags](/stellungnahmen/2024/stellungnahme-zur-erleichterung-im-hinblick-auf-das-schriftformerforde.md) — 2024-08-15 · —
+- [Stellungnahme zum Referentenentwurf des zweiten Jahressteuergesetzes 2024](/stellungnahmen/2024/stellungnahme-zum-referentenentwurf-des-zweiten-jahressteuergesetzes-2.md) — 2024-07-22 · Regulierung
+- [Stellungnahme zum Referentenentwurf eines Jahressteuergesetzes 2024](/stellungnahmen/2024/stellungnahme-zum-referentenentwurf-eines-jahressteuergesetzes-2024.md) — 2024-05-27 · Regulierung
+- [Stellungnahme zur BaFin-Konsultation für ein Merkblatt zur Übermittlung von Eintragungen im Vermögensverzeichnis](/stellungnahmen/2024/stellungnahme-zur-bafin-konsultation-fur-ein-merkblatt-zur-ubermittlun.md) — 2024-05-27 · Regulierung
+- [GDV wendet sich gegen drohende Verschärfung des Videoidentifizierungsverfahrens](/stellungnahmen/2024/gdv-wendet-sich-gegen-drohende-verscharfung-des-videoidentifizierungsv.md) — 2024-05-23 · Regulierung
+- [Stellungnahme zum Referentenentwurf für ein Gesetz zur nationalen Umsetzung der CSRD](/stellungnahmen/2024/stellungnahme-zum-referentenentwurf-fur-ein-gesetz-zur-nationalen-umse.md) — 2024-04-19 · Regulierung
+- [Solvency II - Hintergrund und Positionen der Versicherer](/stellungnahmen/2024/solvency-ii-hintergrund-und-positionen-der-versicherer.md) — 2024-03-26 · Regulierung
+- [Stellungnahme zur EIOPA-Konsultation zur Verwendung von Benchmarks als Teil des Value for Money-Konzepts](/stellungnahmen/2024/stellungnahme-zur-eiopa-konsultation-zur-verwendung-von-benchmarks-als.md) — 2024-03-21 · Regulierung
+- [Stellungnahme zum Referentenentwurf für ein Bürokratieentlastungsgesetz](/stellungnahmen/2024/stellungnahme-zum-referentenentwurf-fur-ein-burokratieentlastungsgeset.md) — 2024-02-02 · Regulierung
+- [EU priorities for the 2024-2029 legislative period](/stellungnahmen/2024/eu-priorities-for-the-2024-2029-legislative-period.md) — 2024-01-05 · Politik, Regulierung
+- [Stellungnahme zum Referentenentwurf eines Gesundheitsdatennutzungsgesetzes (GDNG - Anlage) v. 4. August 2023](/stellungnahmen/2023/stellungnahme-zum-referentenentwurf-eines-gesundheitsdatennutzungsgese.md) — 2023-09-29 · —
+- [Stellungnahme zu den Vorschlägen der EU-Kommission für eine europäische Kleinanlegerstrategie (Retail Investment Strategy, RIS)](/stellungnahmen/2023/stellungnahme-zu-den-vorschlagen-der-eu-kommission-fur-eine-europaisch.md) — 2023-08-23 · Regulierung
+- [Position paper on the EU Commission's proposals for a European retail investment strategy](/stellungnahmen/2023/position-paper-on-the-eu-commission-s-proposals-for-a-european-retail.md) — 2023-08-23 · Regulierung
+- [Stellungnahme zur Einführung eines Leitentscheidungsverfahrens beim BGH](/stellungnahmen/2023/stellungnahme-zur-einfuhrung-eines-leitentscheidungsverfahrens-beim-bg.md) — 2023-08-21 · Politik
+- [Stellungnahme zum Zukunftsfinanzierungsgesetz](/stellungnahmen/2023/stellungnahme-zum-zukunftsfinanzierungsgesetz.md) — 2023-08-16 · Regulierung, Politik
+- [Stellungnahme zum Referentenentwurf zum Mindeststeuergesetz](/stellungnahmen/2023/stellungnahme-zum-referentenentwurf-zum-mindeststeuergesetz.md) — 2023-07-26 · Regulierung
+- [Stellungnahme zum Wachstumschancengesetz](/stellungnahmen/2023/stellungnahme-zum-wachstumschancengesetz.md) — 2023-07-26 · Regulierung
+- [Stellungnahme zum Entwurf des PAI-Review der ESA abgegeben](/stellungnahmen/2023/stellungnahme-zum-entwurf-des-pai-review-der-esa-abgegeben.md) — 2023-07-17 · —
+- [Stellungnahme zum Referentenentwurf des Leitentscheidungsverfahrensgesetzes](/stellungnahmen/2023/stellungnahme-zum-referentenentwurf-des-leitentscheidungsverfahrensges.md) — 2023-07-10 · —
+- [Positionspapier "Finanzierung der Transformation"](/stellungnahmen/2023/positionspapier-finanzierung-der-transformation.md) — 2023-06-29 · Versicherungswirtschaft
+- [Reform des Arzneimittelrechts - EU Pharma Paket](/stellungnahmen/2023/reform-des-arzneimittelrechts-eu-pharma-paket.md) — 2023-06-22 · —
+- [Stellungnahme zur Umsetzung der Mindestbesteuerungsrichtlinie](/stellungnahmen/2023/stellungnahme-zur-umsetzung-der-mindestbesteuerungsrichtlinie.md) — 2023-06-05 · Regulierung
+- [Stellungnahme zum Entwurf für ein Zukunftsfinanzierungsgesetz](/stellungnahmen/2023/stellungnahme-zum-entwurf-fur-ein-zukunftsfinanzierungsgesetz.md) — 2023-06-01 · Regulierung
+- [Stellungnahme zum Entwurf des Gebäudeenergiegesetzes](/stellungnahmen/2023/stellungnahme-zum-entwurf-des-gebaudeenergiegesetzes.md) — 2023-05-31 · Versicherungswirtschaft
+- [Verbände äußern sich zur Mindeststeuerumsetzung](/stellungnahmen/2023/verbande-aussern-sich-zur-mindeststeuerumsetzung.md) — 2023-04-28 · Regulierung
+- [Verbändestellungnahme zum Referentenentwurf zur Änderung des Onlinezugangsgesetzes](/stellungnahmen/2023/verbandestellungnahme-zum-referentenentwurf-zur-anderung-des-onlinezug.md) — 2023-02-28 · —
+- [GDV regt in Stellungnahme zu Greenwashing Klarstellungen an](/stellungnahmen/2023/gdv-regt-in-stellungnahme-zu-greenwashing-klarstellungen-an.md) — 2023-01-25 · Politik
+- [Stellungnahme zu EU-Standards für Nachhaltigkeitsberichterstattung](/stellungnahmen/2023/stellungnahme-zu-eu-standards-fur-nachhaltigkeitsberichterstattung.md) — 2023-01-13 · Politik
+- [Stellungnahme zur Berufshaftpflicht von Anwälten und Steuerberatern - Versicherung der Berufsausübungsgesellschaft](/stellungnahmen/2022/stellungnahme-zur-berufshaftpflicht-von-anwalten-und-steuerberatern-ve.md) — 2022-09-29 · Politik
+- [GDV's response to EFRAG's public consultation on the first set of draft ESRS](/stellungnahmen/2022/gdv-s-response-to-efrag-s-public-consultation-on-the-first-set-of-draf.md) — 2022-08-08 · Politik
+- [GDV's response to IFRS consultation 1](/stellungnahmen/2022/gdv-s-response-to-ifrs-consultation-1.md) — 2022-08-08 · Politik
+- [Central Aspects on GDV's response to EFRAG's public consultation on the first set of draft ESRS](/stellungnahmen/2022/central-aspects-on-gdv-s-response-to-efrag-s-public-consultation-on-th.md) — 2022-08-08 · Politik
+- [GDV's response to IFRS consultation 2](/stellungnahmen/2022/gdv-s-response-to-ifrs-consultation-2.md) — 2022-08-08 · Politik
+- [Position of the GDV on the Corporate Sustainability Due Diligence](/stellungnahmen/2022/position-of-the-gdv-on-the-corporate-sustainability-due-diligence.md) — 2022-07-25 · Politik
+- [Gemeinsame Position von GDV, VDA, VDIK und ZDK zum Referentenentwurf für eine Verordnung zum Neuerlass der Fahrzeug-Zulassungsverordnung und zur Änderung weiterer Vorschriften](/stellungnahmen/2022/gemeinsame-position-von-gdv-vda-vdik-und-zdk-zum-referentenentwurf-fur.md) — 2022-07-19 · Politik
+- [Juristische Einschätzung zur Befristung des Lösungsrechts](/stellungnahmen/2022/juristische-einschatzung-zur-befristung-des-losungsrechts.md) — 2022-06-27 · Politik, Regulierung
+- [Stellungnahme zum Richtlinien-Vorschlag der EU-Kommission zur Änderung der Fernabsatzregeln](/stellungnahmen/2022/stellungnahme-zum-richtlinien-vorschlag-der-eu-kommission-zur-anderung.md) — 2022-06-27 · Politik, Regulierung
+- [Stellungnahme zum Verordnungsentwurf des Bundesministeriums der Justiz: Verordnung über die Registrierung von beruflichen Betreuern](/stellungnahmen/2022/stellungnahme-zum-verordnungsentwurf-des-bundesministeriums-der-justiz.md) — 2022-06-21 · Politik
+- [Stellungnahme zum Entwurf eines Gesetzes zur Stärkung der Aufsicht bei Rechtsdienstleistungen und zur Änderung weiterer Vorschriften des Rechts der rechtsberatenden Berufe](/stellungnahmen/2022/stellungnahme-zum-entwurf-eines-gesetzes-zur-starkung-der-aufsicht-bei.md) — 2022-06-20 · Politik
+- [Stellungnahme zum Vorschlag der EU-Kommission für den Review der Zentralverwahrerverordnung](/stellungnahmen/2022/stellungnahme-zum-vorschlag-der-eu-kommission-fur-den-review-der-zentr.md) — 2022-06-01 · Politik
+- [Stellungnahme zur Einlagelösung nach § 14 Abs. 4 Körperschaftsteuergesetz](/stellungnahmen/2022/stellungnahme-zur-einlagelosung-nach-14-abs-4-korperschaftsteuergesetz.md) — 2022-05-31 · Politik
+- [Gemeinsame Verbände-Stellungnahme zu 4. Corona-Steuerhilfegesetz](/stellungnahmen/2022/gemeinsame-verbande-stellungnahme-zu-4-corona-steuerhilfegesetz.md) — 2022-05-18 · Politik, Regulierung
+- [Stellungnahme zum Referentenentwurf für eine Verordnung zur Änderung der Gefahrstoffverordnung](/stellungnahmen/2022/stellungnahme-zum-referentenentwurf-fur-eine-verordnung-zur-anderung-d.md) — 2022-05-12 · Politik
+- [Positionspapier zum EU-Regulierungsrahmen für Künstliche Intelligenz (KI)](/stellungnahmen/2022/positionspapier-zum-eu-regulierungsrahmen-fur-kunstliche-intelligenz-k.md) — 2022-05-11 · Politik, Regulierung
+- [Stellungnahme der Spitzenverbände der deutschen Wirtschaft zum Steuerentlastungsgesetz 2022](/stellungnahmen/2022/stellungnahme-der-spitzenverbande-der-deutschen-wirtschaft-zum-steuere.md) — 2022-04-22 · Politik
+- [GFIA-Positionspapier zu globaler Mindeststeuer](/stellungnahmen/2022/gfia-positionspapier-zu-globaler-mindeststeuer.md) — 2022-04-21 · Politik
+- [Stellungnahme zum Entwurf eines BMF Schreibens zu 50a EStG bei Softwareauftragsentwicklung](/stellungnahmen/2022/stellungnahme-zum-entwurf-eines-bmf-schreibens-zu-50a-estg-bei-softwar.md) — 2022-04-12 · Politik
+- [Insurance Europe: Comments on EC proposal for implementation of Pillar 2 tax rules](/stellungnahmen/2022/insurance-europe-comments-on-ec-proposal-for-implementation-of-pillar.md) — 2022-04-11 · Politik
+- [Comments on Commission Proposal for a council directive laying down rules to prevent the misuse of shell entities for tax purposes and amending Directive 2011/16/EU](/stellungnahmen/2022/comments-on-commission-proposal-for-a-council-directive-laying-down-ru.md) — 2022-04-11 · Politik
+- [Stellungnahme zum Gesetzentwurf Rentenanpassung 2022 u.a. Rentengesetzen](/stellungnahmen/2022/stellungnahme-zum-gesetzentwurf-rentenanpassung-2022-u-a-rentengesetze.md) — 2022-04-07 · Gesellschaft
+- [Stellungnahme zur EIOPA-Konsultation zum Verbraucherschutz bei Versicherungsanlageprodukten](/stellungnahmen/2022/stellungnahme-zur-eiopa-konsultation-zum-verbraucherschutz-bei-versich.md) — 2022-03-29 · Politik
+- [Stellungnahme zur EIOPA-Konsultation zum Verbraucherschutz bei Versicherungsanlageprodukten (Annex)](/stellungnahmen/2022/stellungnahme-zur-eiopa-konsultation-zum-verbraucherschutz-bei-versich-83874.md) — 2022-03-29 · Politik
+- [IASB-Draft for Disclosures of Subsidiaries without Public Accountability](/stellungnahmen/2022/iasb-draft-for-disclosures-of-subsidiaries-without-public-accountabili.md) — 2022-02-11 · Politik, Regulierung
+- [Disclosure Requirements in IFRS Standards – A Pilot Approach](/stellungnahmen/2022/disclosure-requirements-in-ifrs-standards-a-pilot-approach.md) — 2022-02-11 · Politik, Regulierung
+- [Post-Implementation Review of IFRS 9 Financial Instruments](/stellungnahmen/2022/post-implementation-review-of-ifrs-9-financial-instruments.md) — 2022-02-11 · Politik, Regulierung
+- [Stellungnahme zum Referentenentwurf des Vierten Corona-Steuerhilfegesetzes](/stellungnahmen/2022/stellungnahme-zum-referentenentwurf-des-vierten-corona-steuerhilfegese.md) — 2022-02-07 · Politik
+- [Stellungnahme zur Vermeidung der unbeabsichtigten Begründung von Betriebsstätten](/stellungnahmen/2022/stellungnahme-zur-vermeidung-der-unbeabsichtigten-begrundung-von-betri.md) — 2022-01-03 · Politik
+- [Stellungnahme EIOPA-Konsultation zu QRT-Änderungen](/stellungnahmen/2021/stellungnahme-eiopa-konsultation-zu-qrt-anderungen.md) — 2021-11-18 · Politik
+- [IFRS Practice Statement 1 - Commentary](/stellungnahmen/2021/ifrs-practice-statement-1-commentary.md) — 2021-11-11 · Politik
+- [Positionspapier zur obligatorischen Berufshaftpflichtversicherung gemäß § 23 Abs. 1 Nr. 3 Betreuungsorganisationsgesetz (BtOG)](/stellungnahmen/2021/positionspapier-zur-obligatorischen-berufshaftpflichtversicherung-gema.md) — 2021-10-19 · Politik
+- [Stellungnahme EFRAG-Verfahrensvorschlag zu Ausarbeitung CSRD-Nachhaltigkeitsstandards](/stellungnahmen/2021/stellungnahme-efrag-verfahrensvorschlag-zu-ausarbeitung-csrd-nachhalti.md) — 2021-10-01 · Politik
+- [Stellungnahme IASB-Vorschlag zu Anpassung IFRS 17 / IFRS 9](/stellungnahmen/2021/stellungnahme-iasb-vorschlag-zu-anpassung-ifrs-17-ifrs-9.md) — 2021-09-16 · Politik
+- [Stellungnahme IASB-Agenda 2022-2026 und EFRAG Forschungsprogramm](/stellungnahmen/2021/stellungnahme-iasb-agenda-2022-2026-und-efrag-forschungsprogramm.md) — 2021-09-16 · Politik
+- [Short-term export credit insurance: Comments on the proposed revised Communication on the application of Articles 107 and 108 of the Treaty on the Functioning of the EU](/stellungnahmen/2021/short-term-export-credit-insurance-comments-on-the-proposed-revised-co.md) — 2021-09-09 · Politik
+- [Stellungnahme zu Einrichtung eines International Sustainability Standards Board (ISSB) bei der IFRS Foundation](/stellungnahmen/2021/stellungnahme-zu-einrichtung-eines-international-sustainability-standa.md) — 2021-07-30 · Politik, Regulierung
+- [Stellungnahme im Rahmen der Better Regulation-Konsultation der EU-Kommission (auf Englisch)](/stellungnahmen/2021/stellungnahme-im-rahmen-der-better-regulation-konsultation-der-eu-komm.md) — 2021-07-19 · Politik, Regulierung
+- [Stellungnahme BMJV-Konsultation CSR-Richtlinienvorschlag](/stellungnahmen/2021/stellungnahme-bmjv-konsultation-csr-richtlinienvorschlag.md) — 2021-06-15 · Politik
+- [Stellungnahme zum Steueroasen-Abwehrgesetz](/stellungnahmen/2021/stellungnahme-zum-steueroasen-abwehrgesetz.md) — 2021-05-19 · Politik
+- [Stellungnahme zum Körperschaftsmodernisierungsgesetz](/stellungnahmen/2021/stellungnahme-zum-korperschaftsmodernisierungsgesetz.md) — 2021-05-06 · Politik
+- [Stellungnahme zum Kapitalertragsteuerabzug](/stellungnahmen/2021/stellungnahme-zum-kapitalertragsteuerabzug.md) — 2021-04-13 · Politik
+- [Stellungnahme zu BMF-Vorschlag Absenkung Höchstrechnungszins](/stellungnahmen/2021/stellungnahme-zu-bmf-vorschlag-absenkung-hochstrechnungszins.md) — 2021-04-01 · Politik
+- [Stellungnahme zum Entwurf eines Gesetzes zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften](/stellungnahmen/2021/stellungnahme-zum-entwurf-eines-gesetzes-zur-neuregelung-des-berufsrec.md) — 2021-03-31 · Politik
+- [Positionspapier für ein zeitgemäßes und nachhaltiges Bauen](/stellungnahmen/2021/positionspapier-fur-ein-zeitgemasses-und-nachhaltiges-bauen.md) — 2021-03-17 · —
+- [Zweite Stufe Mehrwertsteuer-Digitalpaket - Verbändestellungnahme zu Entwurf BMF-Schreiben](/stellungnahmen/2021/zweite-stufe-mehrwertsteuer-digitalpaket-verbandestellungnahme-zu-entw.md) — 2021-03-12 · Politik
+- [Stellungnahme Gesetzentwurf zu Provisionsdeckel und PEPP](/stellungnahmen/2021/stellungnahme-gesetzentwurf-zu-provisionsdeckel-und-pepp.md) — 2021-03-02 · Politik
+- [Stellungnahme BMJV-Gesetzentwurf Musterwiderrufsbelehrung](/stellungnahmen/2021/stellungnahme-bmjv-gesetzentwurf-musterwiderrufsbelehrung.md) — 2021-03-02 · Politik
+- [Stellungnahme zum Entwurf des Dritten Corona-Steuerhilfegesetzes](/stellungnahmen/2021/stellungnahme-zum-entwurf-des-dritten-corona-steuerhilfegesetzes.md) — 2021-03-01 · Politik
+- [Stellungnahme zum Regierungsentwurf eines Gesetzes zur Förderung verbrauchergerechter Angebote im Rechtsdienstleistungsmarkt](/stellungnahmen/2021/stellungnahme-zum-regierungsentwurf-eines-gesetzes-zur-forderung-verbr.md) — 2021-03-01 · —
+- [Stellungnahme zum elektronischen Frachtbrief (e-CMR)](/stellungnahmen/2021/stellungnahme-zum-elektronischen-frachtbrief-e-cmr.md) — 2021-02-19 · Politik
+- [Stellungnahme zum FISG-Regierungsentwurf](/stellungnahmen/2021/stellungnahme-zum-fisg-regierungsentwurf.md) — 2021-02-19 · Politik
+- [Stellungnahme VAG-E zu Nachschüssen für regulierte Pensionskassen](/stellungnahmen/2021/stellungnahme-vag-e-zu-nachschussen-fur-regulierte-pensionskassen.md) — 2021-02-19 · Politik, Regulierung
+- [EFRAG-Konsultation zu IFRS 17](/stellungnahmen/2021/efrag-konsultation-zu-ifrs-17.md) — 2021-02-01 · Politik
+- [Stellungnahme zum IT-Sicherheitsgesetz 2.0](/stellungnahmen/2021/stellungnahme-zum-it-sicherheitsgesetz-2-0.md) — 2021-01-27 · Politik
+- [RTS der ESAs zu Transparenzverordnung](/stellungnahmen/2021/rts-der-esas-zu-transparenzverordnung.md) — 2021-01-15 · Politik
+- [Ausbau des elektronischen Rechtsverkehrs](/stellungnahmen/2021/ausbau-des-elektronischen-rechtsverkehrs.md) — 2021-01-13 · Politik
+- [IFRS - Consultation Paper on Sustainability Reporting](/stellungnahmen/2021/ifrs-consultation-paper-on-sustainability-reporting.md) — 2021-01-12 · Politik
+- [ORSA and Climate Risks - EIOPA-Consultation](/stellungnahmen/2021/orsa-and-climate-risks-eiopa-consultation.md) — 2021-01-07 · Politik
+- [Positionspapier](/stellungnahmen/2020/positionspapier.md) — 2020-11-06 · Regulierung
+- [Solvency II-Konsultation der Kommission und GDV-Positionen](/stellungnahmen/2020/solvency-ii-konsultation-der-kommission-und-gdv-positionen.md) — 2020-10-22 · Regulierung
+- [Positionspapier zu Veröffentlichungspflichten unter der Taxonomieverordnung](/stellungnahmen/2020/positionspapier-zu-veroffentlichungspflichten-unter-der-taxonomieveror.md) — 2020-10-05 · Regulierung
+- [Positionspapier](/stellungnahmen/2020/positionspapier-62880.md) — 2020-09-22 · Politik
+- [Stellungnahme zu Roadmap der EU-Kommission zu Solvency-II-Review](/stellungnahmen/2020/stellungnahme-zu-roadmap-der-eu-kommission-zu-solvency-ii-review.md) — 2020-08-26 · Regulierung
+- [Stellungnahme des GDV zu ESMA-Konsultation Ratinginformationen](/stellungnahmen/2020/stellungnahme-des-gdv-zu-esma-konsultation-ratinginformationen.md) — 2020-08-14 · Regulierung
+- [GDV-Stellungnahme - Änderungen des Delegierten Rechtsakts Solvency II Nachhaltigkeit](/stellungnahmen/2020/gdv-stellungnahme-anderungen-des-delegierten-rechtsakts-solvency-ii-na.md) — 2020-07-24 · Regulierung
+- [Stellungnahme zu EIOPA-Konsultation SII-Berichtspflichten](/stellungnahmen/2020/stellungnahme-zu-eiopa-konsultation-sii-berichtspflichten.md) — 2020-06-19 · Regulierung
+- [Stellungnahme zum Gemeinsamen Konsultationspapier über Änderungen des PRIIPs KID](/stellungnahmen/2020/stellungnahme-zum-gemeinsamen-konsultationspapier-uber-anderungen-des.md) — 2020-01-14 · Regulierung
+- [Stellungnahme zum Medizinprodukte-EU-Anpassungsgesetz](/stellungnahmen/2020/stellungnahme-zum-medizinprodukte-eu-anpassungsgesetz.md) — 2020-01-03 · —

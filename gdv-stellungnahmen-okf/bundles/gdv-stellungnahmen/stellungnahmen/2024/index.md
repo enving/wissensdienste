@@ -1,0 +1,62 @@
+# Stellungnahmen 2024
+
+58 Dokument(e), neueste zuerst.
+
+- [Positionspapier zu Überarbeitung der Richtlinie über die alternative Streitbeilegung in Verbraucherangelegenheiten (ADR-Richtlinie)](positionspapier-zu-uberarbeitung-der-richtlinie-uber-die-alternative-s.md) — 2024-12-03 · Stellungnahme · Regulierung
+- [Nachhaltigkeitspositionierung](nachhaltigkeitspositionierung.md) — 2024-12-02 · Stellungnahme · Nachhaltigkeit
+- [Stellungnahme zum 2. Betriebsrentenstärkungsgesetz](stellungnahme-zum-2-betriebsrentenstarkungsgesetz.md) — 2024-11-28 · Stellungnahme · Rente & Vorsorge
+- [Positionspapier zur Umsetzung der Richtlinie zur Stärkung der Verbraucher für den ökologischen Wandel](positionspapier-zur-umsetzung-der-richtlinie-zur-starkung-der-verbrauc.md) — 2024-11-18 · Stellungnahme · Versicherungswirtschaft
+- [Positionspapier für die Trilog-Verhandlungen zur Richtlinie über Umweltaussagen (Green Claims)](positionspapier-fur-die-trilog-verhandlungen-zur-richtlinie-uber-umwel.md) — 2024-11-18 · Stellungnahme · Regulierung
+- [Stellungnahme zum Hochwasserschutzgesetz III](stellungnahme-zum-hochwasserschutzgesetz-iii.md) — 2024-11-01 · Stellungnahme · Klimafolgenanpassung, Klima, Schaden & Unfall
+- [Stellungnahme zum NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz](stellungnahme-zum-nis-2-umsetzungs-und-cybersicherheitsstarkungsgesetz.md) — 2024-11-01 · Stellungnahme · Regulierung
+- [Anmerkungen zu einem geplanten Beschäftigtendatengesetz](anmerkungen-zu-einem-geplanten-beschaftigtendatengesetz.md) — 2024-11-01 · Stellungnahme
+- [Stellungnahme: EIOPA-Konsultation zur Behandlung von direktem Exposure gegenüber einer Central Clearingparty (CCP)](stellungnahme-eiopa-konsultation-zur-behandlung-von-direktem-exposure.md) — 2024-10-30 · Stellungnahme · Regulierung
+- [GDV-Stellungnahme zur Umsetzung des neuen Proportionalitätsrahmens unter Solvency II](gdv-stellungnahme-zur-umsetzung-des-neuen-proportionalitatsrahmens-unt.md) — 2024-10-25 · Stellungnahme · Regulierung
+- [Position paper: FiDA risks to miss its goals and jeopardises the competitiveness of Europe](position-paper-fida-risks-to-miss-its-goals-and-jeopardises-the-compet.md) — 2024-10-23 · Positionspapier · Digitalisierung, Regulierung
+- [Positionspapier: FiDA droht Ziele zu verfehlen und gefährdet damit die Wettbewerbsfähigkeit Europas](positionspapier-fida-droht-ziele-zu-verfehlen-und-gefahrdet-damit-die.md) — 2024-10-23 · Positionspapier · Digitalisierung, Regulierung
+- [Stellungnahme zur Reform der geförderten privaten Altersvorsorge](stellungnahme-zur-reform-der-geforderten-privaten-altersvorsorge.md) — 2024-10-18 · Stellungnahme · Rente & Vorsorge
+- [Positionspapier – Den Markt für Verbriefungen stärken (Englisch)](positionspapier-den-markt-fur-verbriefungen-starken-englisch.md) — 2024-10-09 · Stellungnahme · Regulierung
+- [Stellungnahme zum Regierungsentwurf des Jahressteuergesetzes 2024](stellungnahme-zum-regierungsentwurf-des-jahressteuergesetzes-2024.md) — 2024-10-08 · Stellungnahme · Regulierung
+- [Stellungnahme zum Steuerfortentwicklungsgesetz](stellungnahme-zum-steuerfortentwicklungsgesetz.md) — 2024-10-08 · Stellungnahme · Regulierung
+- [Vorschlag zur Entlastung der Sharinganbieter von Fahrzeugen mit Versicherungskennzeichen](vorschlag-zur-entlastung-der-sharinganbieter-von-fahrzeugen-mit-versic.md) — 2024-09-24 · Stellungnahme · Mobilität
+- [Stellungnahme zum CSRD-Umsetzungsgesetz](stellungnahme-zum-csrd-umsetzungsgesetz.md) — 2024-09-24 · Stellungnahme · Regulierung, Nachhaltigkeit
+- [Stellungnahme zu den Trilog-Verhandlungen zur EU-Kleinanlegerstrategie (in Englisch)](stellungnahme-zu-den-trilog-verhandlungen-zur-eu-kleinanlegerstrategie.md) — 2024-09-10 · Stellungnahme · Regulierung
+- [Stellungnahme zur Novellierung des EU-Arzneimittelrechts](stellungnahme-zur-novellierung-des-eu-arzneimittelrechts.md) — 2024-09-06 · Stellungnahme · Regulierung
+- [Stellungnahme zum Entwurf der Änderung der Fahrzeugzulassungsverordnung (FZV-E)](stellungnahme-zum-entwurf-der-anderung-der-fahrzeugzulassungsverordnun.md) — 2024-09-06 · Stellungnahme · Mobilität
+- [Stellungnahme zum Gesetz zur Verbesserung des Schutzes von gewaltbetroffenen Personen](stellungnahme-zum-gesetz-zur-verbesserung-des-schutzes-von-gewaltbetro.md) — 2024-09-06 · Stellungnahme · Gesellschaft
+- [Stellungnahme zum Fondsmarktstärkungsgesetz](stellungnahme-zum-fondsmarktstarkungsgesetz.md) — 2024-09-06 · Stellungnahme · Regulierung
+- [Stellungnahme zur FIDA-Regulation](stellungnahme-zur-fida-regulation.md) — 2024-09-06 · Stellungnahme · Digitalisierung
+- [Stellungnahme zum Gesetzentwurf zur zivilrechtlichen Erleichterung des Gebäudebaus (Gebäudetyp-E)](stellungnahme-zum-gesetzentwurf-zur-zivilrechtlichen-erleichterung-des.md) — 2024-09-03 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zur Herabstufung der Form des Frachtbriefs und der anderen fracht- und lagerrechtlichen Dokumente zur Textform](stellungnahme-zur-herabstufung-der-form-des-frachtbriefs-und-der-ander.md) — 2024-08-23 · Stellungnahme · Transport & Logistik
+- [Stellungnahme zur Erleichterung im Hinblick auf das Schriftformerfordernis bei Kündigung des Bauvertrags](stellungnahme-zur-erleichterung-im-hinblick-auf-das-schriftformerforde.md) — 2024-08-15 · Stellungnahme
+- [Stellungnahme zur Änderung der Elektrokleinstfahrzeuge-Verordnung](stellungnahme-zur-anderung-der-elektrokleinstfahrzeuge-verordnung.md) — 2024-08-01 · Stellungnahme · Mobilität
+- [Stellungnahme zum zweiten Betriebsrentenstärkungsgesetz](stellungnahme-zum-zweiten-betriebsrentenstarkungsgesetz.md) — 2024-07-30 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme zum Referentenentwurf des zweiten Jahressteuergesetzes 2024](stellungnahme-zum-referentenentwurf-des-zweiten-jahressteuergesetzes-2.md) — 2024-07-22 · Stellungnahme · Regulierung
+- [Stellungnahme zu den Gemeinsamen Grundsätzen für das digitale Datenaustauschverfahren nach § 55a SGB XI](stellungnahme-zu-den-gemeinsamen-grundsatzen-fur-das-digitale-datenaus.md) — 2024-07-12 · Stellungnahme · Digitalisierung
+- [Stellungnahme zum Entwurf eines Gesetzes zur Entwicklung und Erprobung eines Online-Verfahrens in der Zivilgerichtsbarkeit](stellungnahme-zum-entwurf-eines-gesetzes-zur-entwicklung-und-erprobung.md) — 2024-07-12 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zum Referentenentwurf des NIS2-2 Umsetzungs- und Cybersicherheitsstärkungsgesetzes](stellungnahme-zum-referentenentwurf-des-nis2-2-umsetzungs-und-cybersic.md) — 2024-07-12 · Stellungnahme · Digitalisierung
+- [Stellungnahme zur Anpassung des Höchstrechnungszinses auf 1,0 %](stellungnahme-zur-anpassung-des-hochstrechnungszinses-auf-1-0.md) — 2024-07-11 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme zum Kostenrechtsänderungsgesetz 2025 (KostRÄG 2025)](stellungnahme-zum-kostenrechtsanderungsgesetz-2025-kostrag-2025.md) — 2024-07-08 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zum digitalen Datenaustauschverfahren zur Beitragsdifferenzierung in der sozialen Pflegeversicherung](stellungnahme-zum-digitalen-datenaustauschverfahren-zur-beitragsdiffer.md) — 2024-07-04 · Stellungnahme · Digitalisierung
+- [Stellungnahme zur Straßenverkehr-Fernlenkverordnung](stellungnahme-zur-strassenverkehr-fernlenkverordnung.md) — 2024-06-12 · Stellungnahme · Mobilität, Schaden & Unfall
+- [Die Forderungen der deutschen Wirtschaft zur Umsetzung der KI-Verordnung](die-forderungen-der-deutschen-wirtschaft-zur-umsetzung-der-ki-verordnu.md) — 2024-06-11 · Positionspapier · Digitalisierung
+- [Anregungen des GDV zum Regierungsentwurf des Vierten Bürokratieentlastungsgesetzes (BEG IV)](anregungen-des-gdv-zum-regierungsentwurf-des-vierten-burokratieentlast.md) — 2024-06-05 · Stellungnahme · Steuern
+- [Stellungnahme zum Cannabis-Grenzwert im Straßenverkehr](stellungnahme-zum-cannabis-grenzwert-im-strassenverkehr.md) — 2024-05-31 · Stellungnahme · Mobilität, Schaden & Unfall
+- [Stellungnahme zum Referentenentwurf eines Jahressteuergesetzes 2024](stellungnahme-zum-referentenentwurf-eines-jahressteuergesetzes-2024.md) — 2024-05-27 · Stellungnahme · Regulierung
+- [Stellungnahme zur BaFin-Konsultation für ein Merkblatt zur Übermittlung von Eintragungen im Vermögensverzeichnis](stellungnahme-zur-bafin-konsultation-fur-ein-merkblatt-zur-ubermittlun.md) — 2024-05-27 · Stellungnahme · Regulierung
+- [GDV wendet sich gegen drohende Verschärfung des Videoidentifizierungsverfahrens](gdv-wendet-sich-gegen-drohende-verscharfung-des-videoidentifizierungsv.md) — 2024-05-23 · Stellungnahme · Regulierung
+- [Stellungnahme zum Medizinforschungsgesetz](stellungnahme-zum-medizinforschungsgesetz.md) — 2024-04-30 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zum Referentenentwurf für ein Gesetz zur nationalen Umsetzung der CSRD](stellungnahme-zum-referentenentwurf-fur-ein-gesetz-zur-nationalen-umse.md) — 2024-04-19 · Stellungnahme · Regulierung
+- [Positionspapier zur Umsetzung des Rechts auf Vergessenwerden für ehemalige Krebspatienten aus der Verbraucherkreditrichtlinie](positionspapier-zur-umsetzung-des-rechts-auf-vergessenwerden-fur-ehema.md) — 2024-04-18 · Stellungnahme · Rente & Vorsorge
+- [Solvency II - Hintergrund und Positionen der Versicherer](solvency-ii-hintergrund-und-positionen-der-versicherer.md) — 2024-03-26 · Positionspapier · Regulierung
+- [GDV nimmt Stellung zum "Rentenpaket II"](gdv-nimmt-stellung-zum-rentenpaket-ii.md) — 2024-03-25 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme zur EIOPA-Konsultation zur Verwendung von Benchmarks als Teil des Value for Money-Konzepts](stellungnahme-zur-eiopa-konsultation-zur-verwendung-von-benchmarks-als.md) — 2024-03-21 · Stellungnahme · Regulierung
+- [Stellungnahme zur Änderung des Bundesdatenschutzgesetzes](stellungnahme-zur-anderung-des-bundesdatenschutzgesetzes.md) — 2024-03-15 · Stellungnahme · Digitalisierung
+- [Umsetzung der Vision Zero in Schleswig-Holstein](umsetzung-der-vision-zero-in-schleswig-holstein.md) — 2024-02-28 · Stellungnahme · Mobilität, Schaden & Unfall
+- [Stellungnahme zur Überarbeitung der Richtlinie über Pauschalreisen und verbundene Reiseleistungen (EN)](stellungnahme-zur-uberarbeitung-der-richtlinie-uber-pauschalreisen-und.md) — 2024-02-22 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zur Überarbeitung der Richtlinie über Pauschalreisen und verbundene Reiseleistungen (DE)](stellungnahme-zur-uberarbeitung-der-richtlinie-uber-pauschalreisen-und-169010.md) — 2024-02-20 · Stellungnahme · Schaden & Unfall
+- [Änderung des Güterkraftverkehrsgesetzes](anderung-des-guterkraftverkehrsgesetzes.md) — 2024-02-14 · Stellungnahme · Schaden & Unfall, Transport & Logistik, Wirtschaft
+- [Stellungnahme zur Evaluierung der Datenschutz-Grundverordnung (DSGVO)](stellungnahme-zur-evaluierung-der-datenschutz-grundverordnung-dsgvo.md) — 2024-02-08 · Stellungnahme · Digitalisierung, Gesellschaft, Europa
+- [Stellungnahme zum Referentenentwurf für ein Bürokratieentlastungsgesetz](stellungnahme-zum-referentenentwurf-fur-ein-burokratieentlastungsgeset.md) — 2024-02-02 · Stellungnahme · Regulierung
+- [Kreislauforientierte Konstruktion von Fahrzeugen und Entsorgung von Altfahrzeugen](kreislauforientierte-konstruktion-von-fahrzeugen-und-entsorgung-von-al.md) — 2024-02-01 · Stellungnahme · Kreislaufwirtschaft, Mobilität, E-Mobilität, Schaden & Unfall
+- [EU priorities for the 2024-2029 legislative period](eu-priorities-for-the-2024-2029-legislative-period.md) — 2024-01-05 · Positionspapier · Politik, Regulierung

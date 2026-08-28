@@ -1,0 +1,122 @@
+Modell=nomic-embed-text  Dokumente=348  Abschnitte=4830
+Embeddings gebaut in 132s
+
+====================================================================================================
+ANWENDUNGSFALL: U1 CSRD/ESRS aktuelle Position
+Frage: Aktuelle Position der Versicherungswirtschaft zur Nachhaltigkeitsberichterstattung CSRD ESRS
+
+  [MCP-Wissensdienst: lexikalische Suche]
+    2024-04-19  stellungnahmen/2024/stellungnahme-zum-referentenentwurf-fur-ein-gesetz-zur-nationalen-umse
+    2025-07-21  stellungnahmen/2025/gdv-stellungnahme-zum-csrd-umsetzungsgesetz
+    2026-06-03  stellungnahmen/2026/stellungnahme-zu-den-fachlichen-empfehlungen-der-efrag-zum-esrs-verein
+    2025-05-06  stellungnahmen/2025/positionspapier-zur-geplanten-uberarbeitung-der-eu-nachhaltigkeitsberi
+    2024-07-04  stellungnahmen/2024/stellungnahme-zum-digitalen-datenaustauschverfahren-zur-beitragsdiffer
+  [Hochgeladener Wissensordner: Vektorsuche]
+    0.829  2025-09-29  stellungnahmen/2025/positionspapier-zu-den-uberarbeiteten-entwurfen-des-esrs-englisch
+    0.789  2025-05-06  stellungnahmen/2025/positionspapier-zur-geplanten-uberarbeitung-der-eu-nachhaltigkeitsberi
+    0.779  2026-06-03  stellungnahmen/2026/stellungnahme-zu-den-fachlichen-empfehlungen-der-efrag-zum-esrs-verein
+    0.752  2021-09-30  stellungnahmen/2021/positionspapier-der-versicherungswirtschaft-zur-geplanten-eu-verordnun
+    0.749  2024-11-18  stellungnahmen/2024/positionspapier-zur-umsetzung-der-richtlinie-zur-starkung-der-verbrauc
+
+====================================================================================================
+ANWENDUNGSFALL: U2 digitaler Euro Zeitverlauf
+Frage: Fruehere GDV-Positionen zum digitalen Euro und Veraenderung ueber die Zeit
+
+  [MCP-Wissensdienst: lexikalische Suche]
+    2023-08-09  stellungnahmen/2023/stellungnahme-zum-legislativvorschlag-der-europaischen-kommission-zur
+    2022-07-19  stellungnahmen/2022/gemeinsame-position-von-gdv-vda-vdik-und-zdk-zum-referentenentwurf-fur
+    2025-07-10  stellungnahmen/2025/stellungnahme-zum-gdv-rentenpaket
+    2022-11-28  stellungnahmen/2022/legislativvorschlag-der-europaischen-kommission-uber-echtzeituberweisu
+    2025-09-18  stellungnahmen/2025/positionspapier-zur-eu-vo-uber-die-kreislauforientierte-konstruktion-v
+  [Hochgeladener Wissensordner: Vektorsuche]
+    0.824  2021-08-11  stellungnahmen/2021/positionspapier-der-digitale-euro-aus-sicht-der-deutschen-versicherung
+    0.793  2023-07-17  stellungnahmen/2023/gdv-positionspapier-zum-beginn-der-trilogverhandlungen-zur-ki-verordnu
+    0.789  2023-08-09  stellungnahmen/2023/stellungnahme-zum-legislativvorschlag-der-europaischen-kommission-zur
+    0.787  2022-07-19  stellungnahmen/2022/gemeinsame-position-von-gdv-vda-vdik-und-zdk-zum-referentenentwurf-fur
+    0.783  2023-12-05  stellungnahmen/2023/gdv-stellungnahme-zu-den-regelungen-der-bundesrechtsanwaltsordnung-und
+
+====================================================================================================
+ANWENDUNGSFALL: U3 rote Linie unverzichtbare Statistik
+Frage: Buerokratieabbau darf nicht zulasten verlaesslicher statistischer Grundlagen gehen welche Daten sind unverzichtbar rote Linie
+
+  [MCP-Wissensdienst: lexikalische Suche]
+    2026-04-22  stellungnahmen/2026/stellungnahme-zum-entwurf-eines-ersten-unternehmensstatistikreformgese
+    2022-06-27  stellungnahmen/2022/juristische-einschatzung-zur-befristung-des-losungsrechts
+    2026-06-15  stellungnahmen/2026/stellungnahme-zum-jahressteuergesetz-2026
+    2023-07-26  stellungnahmen/2023/stellungnahme-zum-referentenentwurf-zum-mindeststeuergesetz
+    2026-04-21  stellungnahmen/2026/positionspapier-zur-modernisierungsagenda-fur-staat-und-verwaltung-bun
+  [Hochgeladener Wissensordner: Vektorsuche]
+    0.727  2026-01-22  stellungnahmen/2026/vorschlage-zur-entburokratisierung-des-steuerrechts
+    0.725  2024-02-02  stellungnahmen/2024/stellungnahme-zum-referentenentwurf-fur-ein-burokratieentlastungsgeset
+    0.722  2026-06-16  stellungnahmen/2026/wirtschaft-kritisiert-buchfuhrungsdatenschnittstelle
+    0.722  2026-04-22  stellungnahmen/2026/stellungnahme-zum-entwurf-eines-ersten-unternehmensstatistikreformgese
+    0.721  2024-05-27  stellungnahmen/2024/stellungnahme-zur-bafin-konsultation-fur-ein-merkblatt-zur-ubermittlun
+
+====================================================================================================
+ANWENDUNGSFALL: U4 KI fachbereichsuebergreifend
+Frage: Welche Fachbereiche des GDV haben zu kuenstlicher Intelligenz Position bezogen Kernaussagen
+
+  [MCP-Wissensdienst: lexikalische Suche]
+    2021-09-30  stellungnahmen/2021/positionspapier-der-versicherungswirtschaft-zur-geplanten-eu-verordnun
+    2020-08-24  stellungnahmen/2020/stellungnahme-des-gdv-zum-gesetz-zur-anderung-des-justizkosten-und-rec
+    2020-05-05  stellungnahmen/2020/stellungnahme-zum-zwischenbericht-des-sustainable-finance-beirats
+    2026-03-23  stellungnahmen/2026/stellungnahme-zu-den-grundsatzen-der-verwaltung-fur-den-betriebsstatte
+    2023-07-17  stellungnahmen/2023/gdv-positionspapier-zum-beginn-der-trilogverhandlungen-zur-ki-verordnu
+  [Hochgeladener Wissensordner: Vektorsuche]
+    0.817  2023-07-17  stellungnahmen/2023/gdv-positionspapier-zum-beginn-der-trilogverhandlungen-zur-ki-verordnu
+    0.801  2022-07-19  stellungnahmen/2022/gemeinsame-position-von-gdv-vda-vdik-und-zdk-zum-referentenentwurf-fur
+    0.790  2022-03-02  stellungnahmen/2022/positionspapier-zum-eu-rechtsrahmen-fur-kunstliche-intelligenz
+    0.786  2025-12-22  stellungnahmen/2025/gdv-positionspapier-zur-definition-eines-ki-systems
+    0.784  2025-08-18  stellungnahmen/2025/gdv-stellungnahme-zur-verordnung-zur-anderung-der-fahrzeug-zulassungsv
+
+====================================================================================================
+ANWENDUNGSFALL: K Solvency II Review Forderungen
+Frage: Zentrale Forderungen des GDV zum Solvency II Review Extrapolation Zinskurve Proportionalitaet Berichtspflichten
+
+  [MCP-Wissensdienst: lexikalische Suche]
+    2020-10-22  stellungnahmen/2020/solvency-ii-konsultation-der-kommission-und-gdv-positionen
+    2024-10-25  stellungnahmen/2024/gdv-stellungnahme-zur-umsetzung-des-neuen-proportionalitatsrahmens-unt
+    2024-03-26  stellungnahmen/2024/solvency-ii-hintergrund-und-positionen-der-versicherer
+    2020-08-26  stellungnahmen/2020/stellungnahme-zu-roadmap-der-eu-kommission-zu-solvency-ii-review
+    2020-07-24  stellungnahmen/2020/gdv-stellungnahme-anderungen-des-delegierten-rechtsakts-solvency-ii-na
+  [Hochgeladener Wissensordner: Vektorsuche]
+    0.792  2024-10-25  stellungnahmen/2024/gdv-stellungnahme-zur-umsetzung-des-neuen-proportionalitatsrahmens-unt
+    0.791  2020-10-22  stellungnahmen/2020/solvency-ii-konsultation-der-kommission-und-gdv-positionen
+    0.762  2025-10-13  stellungnahmen/2025/gdv-stellungnahme-zur-eiopa-konsultation-uber-aufsichtsrechtliche-meld
+    0.761  2024-03-26  stellungnahmen/2024/solvency-ii-hintergrund-und-positionen-der-versicherer
+    0.760  2020-08-26  stellungnahmen/2020/stellungnahme-zu-roadmap-der-eu-kommission-zu-solvency-ii-review
+
+====================================================================================================
+ANWENDUNGSFALL: S2-066 Auffinden gemeinsames Schreiben Schrems II
+Frage: Bereits veroeffentlichtes gemeinsames Schreiben der Wirtschaftsverbaende unter anderem GDV zum Schrems II Urteil des EuGH finden
+
+  [MCP-Wissensdienst: lexikalische Suche]
+    2020-09-22  stellungnahmen/2020/verbandepapier-zum-schrems-ii-urteil-des-eugh
+    2021-05-06  stellungnahmen/2021/verbandeschreiben-zur-umsetzung-des-schrems-ii-urteils-des-eugh
+    2025-02-04  stellungnahmen/2025/stellungnahme-zum-offentlichen-entwurf-der-bafin-zum-grundsatz-der-unt
+    2026-05-19  stellungnahmen/2026/stellungnahme-zum-referentenentwurf-zur-anderung-des-fahrlehrergesetze
+    2023-07-26  stellungnahmen/2023/stellungnahme-zum-referentenentwurf-zum-mindeststeuergesetz
+  [Hochgeladener Wissensordner: Vektorsuche]
+    0.755  2021-05-06  stellungnahmen/2021/verbandeschreiben-zur-umsetzung-des-schrems-ii-urteils-des-eugh
+    0.736  2024-03-25  stellungnahmen/2024/gdv-nimmt-stellung-zum-rentenpaket-ii
+    0.728  2022-11-28  stellungnahmen/2022/legislativvorschlag-der-europaischen-kommission-uber-echtzeituberweisu
+    0.724  2024-03-26  stellungnahmen/2024/solvency-ii-hintergrund-und-positionen-der-versicherer
+    0.724  2023-07-17  stellungnahmen/2023/gdv-positionspapier-zum-beginn-der-trilogverhandlungen-zur-ki-verordnu
+
+====================================================================================================
+ANWENDUNGSFALL: S2-058 FiDA belastbare Argumente
+Frage: Zentrale GDV-Positionen und Forderungen zur FiDA-Verordnung Financial Data Access fuer belastbare zitierbare Antworten auf Rueckfragen
+
+  [MCP-Wissensdienst: lexikalische Suche]
+    2023-08-01  stellungnahmen/2023/stellungnahme-zum-rahmenwerk-fur-den-zugang-zu-finanzdaten-fida
+    2022-07-19  stellungnahmen/2022/gemeinsame-position-von-gdv-vda-vdik-und-zdk-zum-referentenentwurf-fur
+    2024-10-23  stellungnahmen/2024/positionspapier-fida-droht-ziele-zu-verfehlen-und-gefahrdet-damit-die
+    2025-08-18  stellungnahmen/2025/gdv-stellungnahme-zur-verordnung-zur-anderung-der-fahrzeug-zulassungsv
+    2024-09-06  stellungnahmen/2024/stellungnahme-zur-fida-regulation
+  [Hochgeladener Wissensordner: Vektorsuche]
+    0.792  2023-08-01  stellungnahmen/2023/stellungnahme-zum-rahmenwerk-fur-den-zugang-zu-finanzdaten-fida
+    0.785  2024-10-23  stellungnahmen/2024/positionspapier-fida-droht-ziele-zu-verfehlen-und-gefahrdet-damit-die
+    0.782  2024-09-06  stellungnahmen/2024/stellungnahme-zur-fida-regulation
+    0.758  2022-07-19  stellungnahmen/2022/gemeinsame-position-von-gdv-vda-vdik-und-zdk-zum-referentenentwurf-fur
+    0.748  2023-12-05  stellungnahmen/2023/gdv-stellungnahme-zu-den-regelungen-der-bundesrechtsanwaltsordnung-und
+

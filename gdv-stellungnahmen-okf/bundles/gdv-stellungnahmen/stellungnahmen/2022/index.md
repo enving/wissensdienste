@@ -1,0 +1,48 @@
+# Stellungnahmen 2022
+
+44 Dokument(e), neueste zuerst.
+
+- [EU-Kommissionsvorschläge zur Produkthaftung und einer neuen KI-Haftungsrichtlinie - European Commission’s “Stakeholder Feedback Process”](eu-kommissionsvorschlage-zur-produkthaftung-und-einer-neuen-ki-haftung.md) — 2022-12-19 · Stellungnahme · Konjunktur & Märkte, Digitalisierung, Schaden & Unfall
+- [EU-Kommissionsvorschläge zur Produkthaftung und einer neuen KI-Haftungsrichtlinie - Verbändeanhörung BMJ](eu-kommissionsvorschlage-zur-produkthaftung-und-einer-neuen-ki-haftung-120836.md) — 2022-12-19 · Stellungnahme · Konjunktur & Märkte, Digitalisierung, Schaden & Unfall
+- [Änderung der Gewerbeanzeige- und Finanzanlagenvermittlungsverordnung](anderung-der-gewerbeanzeige-und-finanzanlagenvermittlungsverordnung.md) — 2022-12-06 · Stellungnahme · Nachhaltigkeit, Konjunktur & Märkte
+- [Legislativvorschlag der Europäischen Kommission über Echtzeitüberweisungen in Euro](legislativvorschlag-der-europaischen-kommission-uber-echtzeituberweisu.md) — 2022-11-28 · Stellungnahme · Digitalisierung, Konjunktur & Märkte
+- [Ergänzung zum GDV-Positionspapier zur Zukunft der Versicherung gegen Naturgefahrenereignisse in Deutschland](erganzung-zum-gdv-positionspapier-zur-zukunft-der-versicherung-gegen-n.md) — 2022-10-12 · Stellungnahme · Politik, Naturgefahren
+- [Positionspapier zum EU-Regulierungsrahmen für Künstliche Intelligenz](positionspapier-zum-eu-regulierungsrahmen-fur-kunstliche-intelligenz.md) — 2022-10-10 · Positionspapier · Digitalisierung, Künstliche Intelligenz
+- [Stellungnahme zur Berufshaftpflicht von Anwälten und Steuerberatern - Versicherung der Berufsausübungsgesellschaft](stellungnahme-zur-berufshaftpflicht-von-anwalten-und-steuerberatern-ve.md) — 2022-09-29 · Stellungnahme · Politik
+- [Stellungnahme zu Mindestschutz unter der Taxonomieverordnung](stellungnahme-zu-mindestschutz-unter-der-taxonomieverordnung.md) — 2022-09-16 · Stellungnahme · Nachhaltigkeit
+- [Diskussionspapier zu den technischen Ursachen von Containerverlusten auf See und geeignete Gegenmaßnahmen](diskussionspapier-zu-den-technischen-ursachen-von-containerverlusten-a.md) — 2022-09-13 · Stellungnahme · Konjunktur & Märkte
+- [GDV's response to EFRAG's public consultation on the first set of draft ESRS](gdv-s-response-to-efrag-s-public-consultation-on-the-first-set-of-draf.md) — 2022-08-08 · Stellungnahme · Politik
+- [GDV's response to IFRS consultation 1](gdv-s-response-to-ifrs-consultation-1.md) — 2022-08-08 · Stellungnahme · Politik
+- [Central Aspects on GDV's response to EFRAG's public consultation on the first set of draft ESRS](central-aspects-on-gdv-s-response-to-efrag-s-public-consultation-on-th.md) — 2022-08-08 · Stellungnahme · Politik
+- [GDV's response to IFRS consultation 2](gdv-s-response-to-ifrs-consultation-2.md) — 2022-08-08 · Stellungnahme · Politik
+- [Position of the GDV on the Corporate Sustainability Due Diligence](position-of-the-gdv-on-the-corporate-sustainability-due-diligence.md) — 2022-07-25 · Stellungnahme · Politik
+- [Gemeinsame Position von GDV, VDA, VDIK und ZDK zum Referentenentwurf für eine Verordnung zum Neuerlass der Fahrzeug-Zulassungsverordnung und zur Änderung weiterer Vorschriften](gemeinsame-position-von-gdv-vda-vdik-und-zdk-zum-referentenentwurf-fur.md) — 2022-07-19 · Stellungnahme · Politik
+- [Juristische Einschätzung zur Befristung des Lösungsrechts](juristische-einschatzung-zur-befristung-des-losungsrechts.md) — 2022-06-27 · Stellungnahme · Politik, Regulierung
+- [Stellungnahme zum Richtlinien-Vorschlag der EU-Kommission zur Änderung der Fernabsatzregeln](stellungnahme-zum-richtlinien-vorschlag-der-eu-kommission-zur-anderung.md) — 2022-06-27 · Stellungnahme · Politik, Regulierung
+- [Stellungnahme zur Konsultation zur Funktionsfähigkeit des Marktes für ESG-Ratings (in Englisch)](stellungnahme-zur-konsultation-zur-funktionsfahigkeit-des-marktes-fur.md) — 2022-06-21 · Stellungnahme · Nachhaltigkeit, Politik, Konjunktur & Märkte, Regulierung
+- [Stellungnahme zum Verordnungsentwurf des Bundesministeriums der Justiz: Verordnung über die Registrierung von beruflichen Betreuern](stellungnahme-zum-verordnungsentwurf-des-bundesministeriums-der-justiz.md) — 2022-06-21 · Stellungnahme · Politik
+- [Stellungnahme zum Entwurf eines Gesetzes zur Stärkung der Aufsicht bei Rechtsdienstleistungen und zur Änderung weiterer Vorschriften des Rechts der rechtsberatenden Berufe](stellungnahme-zum-entwurf-eines-gesetzes-zur-starkung-der-aufsicht-bei.md) — 2022-06-20 · Stellungnahme · Politik
+- [Stellungnahme zum Vorschlag der EU-Kommission für den Review der Zentralverwahrerverordnung](stellungnahme-zum-vorschlag-der-eu-kommission-fur-den-review-der-zentr.md) — 2022-06-01 · Stellungnahme · Politik
+- [Stellungnahme zur Einlagelösung nach § 14 Abs. 4 Körperschaftsteuergesetz](stellungnahme-zur-einlagelosung-nach-14-abs-4-korperschaftsteuergesetz.md) — 2022-05-31 · Stellungnahme · Politik
+- [Gemeinsame Verbände-Stellungnahme zu 4. Corona-Steuerhilfegesetz](gemeinsame-verbande-stellungnahme-zu-4-corona-steuerhilfegesetz.md) — 2022-05-18 · Stellungnahme · Politik, Regulierung
+- [Stellungnahme zum Referentenentwurf für eine Verordnung zur Änderung der Gefahrstoffverordnung](stellungnahme-zum-referentenentwurf-fur-eine-verordnung-zur-anderung-d.md) — 2022-05-12 · Stellungnahme · Politik
+- [Positionspapier zum EU-Regulierungsrahmen für Künstliche Intelligenz (KI)](positionspapier-zum-eu-regulierungsrahmen-fur-kunstliche-intelligenz-k.md) — 2022-05-11 · Positionspapier · Politik, Regulierung
+- [Stellungnahme der Spitzenverbände der deutschen Wirtschaft zum Steuerentlastungsgesetz 2022](stellungnahme-der-spitzenverbande-der-deutschen-wirtschaft-zum-steuere.md) — 2022-04-22 · Stellungnahme · Politik
+- [GFIA-Positionspapier zu globaler Mindeststeuer](gfia-positionspapier-zu-globaler-mindeststeuer.md) — 2022-04-21 · Positionspapier · Politik
+- [Stellungnahme zum Entwurf eines BMF Schreibens zu 50a EStG bei Softwareauftragsentwicklung](stellungnahme-zum-entwurf-eines-bmf-schreibens-zu-50a-estg-bei-softwar.md) — 2022-04-12 · Stellungnahme · Politik
+- [Insurance Europe: Comments on EC proposal for implementation of Pillar 2 tax rules](insurance-europe-comments-on-ec-proposal-for-implementation-of-pillar.md) — 2022-04-11 · Stellungnahme · Politik
+- [Comments on Commission Proposal for a council directive laying down rules to prevent the misuse of shell entities for tax purposes and amending Directive 2011/16/EU](comments-on-commission-proposal-for-a-council-directive-laying-down-ru.md) — 2022-04-11 · Stellungnahme · Politik
+- [Stellungnahme zum Gesetzentwurf Rentenanpassung 2022 u.a. Rentengesetzen](stellungnahme-zum-gesetzentwurf-rentenanpassung-2022-u-a-rentengesetze.md) — 2022-04-07 · Stellungnahme · Gesellschaft
+- [Stellungnahme zum Entwurf einer Stellungnahme des Rechtsausschusses des EP zum geplanten EU-Regulierungsrahmen für KI](stellungnahme-zum-entwurf-einer-stellungnahme-des-rechtsausschusses-de.md) — 2022-04-04 · Stellungnahme · Regulierung, Digitalisierung
+- [Stellungnahme zur ESMA-Konsultation zu ESG-Ratingagenturen](stellungnahme-zur-esma-konsultation-zu-esg-ratingagenturen.md) — 2022-03-30 · Stellungnahme · Nachhaltigkeit, Konjunktur & Märkte, Regulierung
+- [Stellungnahme zur EIOPA-Konsultation zum Verbraucherschutz bei Versicherungsanlageprodukten](stellungnahme-zur-eiopa-konsultation-zum-verbraucherschutz-bei-versich.md) — 2022-03-29 · Stellungnahme · Politik
+- [Stellungnahme zur EIOPA-Konsultation zum Verbraucherschutz bei Versicherungsanlageprodukten (Annex)](stellungnahme-zur-eiopa-konsultation-zum-verbraucherschutz-bei-versich-83874.md) — 2022-03-29 · Stellungnahme · Politik
+- [Positionspapier zum EU-Rechtsrahmen für Künstliche Intelligenz](positionspapier-zum-eu-rechtsrahmen-fur-kunstliche-intelligenz.md) — 2022-03-02 · Positionspapier · Digitalisierung, Künstliche Intelligenz
+- [IASB-Draft for Disclosures of Subsidiaries without Public Accountability](iasb-draft-for-disclosures-of-subsidiaries-without-public-accountabili.md) — 2022-02-11 · Stellungnahme · Politik, Regulierung
+- [Disclosure Requirements in IFRS Standards – A Pilot Approach](disclosure-requirements-in-ifrs-standards-a-pilot-approach.md) — 2022-02-11 · Stellungnahme · Politik, Regulierung
+- [Post-Implementation Review of IFRS 9 Financial Instruments](post-implementation-review-of-ifrs-9-financial-instruments.md) — 2022-02-11 · Stellungnahme · Politik, Regulierung
+- [Stellungnahme zum Referentenentwurf des Vierten Corona-Steuerhilfegesetzes](stellungnahme-zum-referentenentwurf-des-vierten-corona-steuerhilfegese.md) — 2022-02-07 · Stellungnahme · Politik
+- [Consultation: Adapting liability rules to the digital age and Artificial Intelligence](consultation-adapting-liability-rules-to-the-digital-age-and-artificia.md) — 2022-01-31 · Stellungnahme · Politik, Künstliche Intelligenz
+- [Position Paper CSRD](position-paper-csrd.md) — 2022-01-20 · Stellungnahme · Nachhaltigkeit
+- [GDV-Diskussionspapier zu den technischen Ursachen von Containerverlusten auf See und geeignete Gegenmaßnahmen](gdv-diskussionspapier-zu-den-technischen-ursachen-von-containerverlust.md) — 2022-01-05 · Stellungnahme · Transport & Logistik
+- [Stellungnahme zur Vermeidung der unbeabsichtigten Begründung von Betriebsstätten](stellungnahme-zur-vermeidung-der-unbeabsichtigten-begrundung-von-betri.md) — 2022-01-03 · Stellungnahme · Politik

@@ -1,0 +1,27 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+mcpvenv/
+
+# Raw working area for the pipeline (regenerable; PDFs/markdown are large).
+# catalog.json IS kept (small manifest, lets build_bundle run without re-scraping).
+GDV_Stellungnahmen/pdf/
+GDV_Stellungnahmen/md/
+GDV_Stellungnahmen/embeddings/
+GDV_Stellungnahmen/*.log
+GDV_Stellungnahmen/convert_failures.json
+
+# The reference example repo (input, not part of this deliverable)
+okf-bundles-example/
+
+# Scratch notes / working briefs (essence captured in CLAUDE.md)
+WeitereGedanken.md
+further_thoughts.md
+prompt.md
+prompt2.md
+test.md

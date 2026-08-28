@@ -1,0 +1,13 @@
+# Keep the Docker build context small: only mcp_server/ and bundles/ are needed.
+# NOTE: do not exclude **/*.md globally - the OKF bundle content IS markdown.
+.git
+.DS_Store
+okf-bundles-example/
+GDV_Stellungnahmen/
+scripts/
+.claude/
+.agents/
+**/__pycache__/
+# root-level docs only (leading slash = context root, keeps bundles/**/*.md):
+/*.md
+/LICENSE

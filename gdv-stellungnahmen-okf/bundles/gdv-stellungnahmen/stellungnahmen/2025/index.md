@@ -1,0 +1,76 @@
+# Stellungnahmen 2025
+
+72 Dokument(e), neueste zuerst.
+
+- [Stellungnahme zum Regierungsentwurf des Bankenrichtlinienumsetzungs- und Bürokratieentlastungsgesetzes (BRUBEG)](stellungnahme-zum-regierungsentwurf-des-bankenrichtlinienumset-zungs-u.md) — 2025-12-22 · Stellungnahme · Regulierung, Politik
+- [GDV-Positionspapier zur Definition eines KI-Systems](gdv-positionspapier-zur-definition-eines-ki-systems.md) — 2025-12-22 · Positionspapier · Digitalisierung, Regulierung
+- [Stellungnahme zum Referentenentwurf „Gesetz zur Reform der steuerlich geförderten privaten Altersvorsorge"](stellungnahme-zum-referentenentwurf-gesetz-zur-reform-der-steuerlich-g.md) — 2025-12-17 · Stellungnahme · Rente & Vorsorge
+- [Taxonomieverordnung: Verband fordert Anpassungen für eine praxisnahe Anwendung](taxonomieverordnung-verband-fordert-anpassungen-fur-eine-praxisnahe-an.md) — 2025-12-10 · Stellungnahme · Nachhaltigkeit, Regulierung
+- [Stellungnahme zur Änderung des Behindertengleichstellungsgesetzes](stellungnahme-zur-anderung-des-behindertengleichstellungsgesetzes.md) — 2025-12-08 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme zum Aktivrentengesetz](stellungnahme-zum-aktivrentengesetz.md) — 2025-11-28 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme zum Rentenpaket](stellungnahme-zum-rentenpaket.md) — 2025-11-17 · Stellungnahme · Rente & Vorsorge
+- [Referententwurf des BMJV zur Neuordnung auf- sichtsrechtlicher Verfahren und zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe](referententwurf-des-bmjv-zur-neuordnung-auf-sichtsrechtlicher-verfahre.md) — 2025-11-17 · Stellungnahme
+- [Stellungnahme zur Sportschifffahrtverordnung](stellungnahme-zur-sportschifffahrtverordnung.md) — 2025-11-12 · Stellungnahme · Mobilität
+- [Finanzierung von Transformation und Wettbewerbsfähigkeit voranbringen](finanzierung-von-transformation-und-wettbewerbsfahigkeit-voranbringen.md) — 2025-11-07 · Positionspapier · Politik, Regulierung, Wirtschaft
+- [Positionspapier zur wirksamen Begrenzung von Containerverlusten auf See](positionspapier-zur-wirksamen-begrenzung-von-containerverlusten-auf-se.md) — 2025-10-29 · Positionspapier · Transport & Logistik, Schaden & Unfall
+- [Gemeinsame Verbände-Stellungnahme zum Gesetzentwurf eines Mindeststeueranpassungsgesetzes (MinStGAnpG)](gemeinsame-verbande-stellungnahme-zum-gesetzentwurf-eines-mindeststeue.md) — 2025-10-28 · Stellungnahme · Steuern, Politische Positionen
+- [Stellungnahme zum Regierungsentwurf zur Änderung des Gesetzes gegen den unlauteren Wettbewerb](stellungnahme-zum-regierungsentwurf-zur-anderung-des-gesetzes-gegen-de.md) — 2025-10-24 · Stellungnahme · Politik, GDV
+- [Positionspapier zur wirksamen Begrenzung von Containerverlusten auf hoher See](positionspapier-zur-wirksamen-begrenzung-von-containerverlusten-auf-ho.md) — 2025-10-22 · Positionspapier
+- [GDV-Stellungnahme zum Referentenentwurf zur Modernisierung des Produkthaftungsrechts](gdv-stellungnahme-zum-referentenentwurf-zur-modernisierung-des-produkt.md) — 2025-10-17 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zum CSRD-Umsetzungsgesetz](stellungnahme-zum-csrd-umsetzungsgesetz.md) — 2025-10-16 · Stellungnahme · Regulierung
+- [Referentenentwurf für ein Aktivrentengesetz](referentenentwurf-fur-ein-aktivrentengesetz.md) — 2025-10-14 · Stellungnahme · Rente & Vorsorge
+- [GDV-Stellungnahme zur EIOPA-Konsultation über aufsichtsrechtliche Melde- und Offenlegungspflichten (engl.)](gdv-stellungnahme-zur-eiopa-konsultation-uber-aufsichtsrechtliche-meld.md) — 2025-10-13 · Stellungnahme · Regulierung
+- [Stellungnahme zum Gesetzentwurf zur Modernisierung und Digitalisierung der Schwarzarbeitsbekämpfung](stellungnahme-zum-gesetzentwurf-zur-modernisierung-und-digitalisierung.md) — 2025-10-09 · Stellungnahme · Regulierung
+- [Stellungnahme zum Regierungsentwurf eines Gesetzes zur Änderung des Verbrauchervertrags- und des Versicherungsvertragsrechts](stellungnahme-zum-regierungsentwurf-eines-gesetzes-zur-anderung-des-ve.md) — 2025-10-01 · Stellungnahme · Regulierung
+- [Stellungnahme des GDV zum Regierungsentwurf eines Gesetzes zur Umsetzung der Verbraucherkreditrichtlinie](stellungnahme-des-gdv-zum-regierungsentwurf-eines-gesetzes-zur-umsetzu.md) — 2025-09-30 · Stellungnahme · Rente & Vorsorge
+- [Steuerliche Behandlung des Arbeitslohns nach DBA](steuerliche-behandlung-des-arbeitslohns-nach-dba.md) — 2025-09-29 · Stellungnahme · Regulierung
+- [Positionspapier zu den überarbeiteten Entwürfen des ESRS (englisch)](positionspapier-zu-den-uberarbeiteten-entwurfen-des-esrs-englisch.md) — 2025-09-29 · Positionspapier · Regulierung, Nachhaltigkeit
+- [Positionspapier zur EU-VO über die kreislauforientierte Konstruktion von Fahrzeugen und die Entsorgung von Altfahrzeugen](positionspapier-zur-eu-vo-uber-die-kreislauforientierte-konstruktion-v.md) — 2025-09-18 · Stellungnahme · Kreislaufwirtschaft, Mobilität, Schaden & Unfall
+- [Stellungnahme zum EU Call for Evidence – European climate resilience and risk management – integrated framework (engl.)](stellungnahme-zum-eu-call-for-evidence-european-climate-resilience-and.md) — 2025-09-15 · Stellungnahme · Klima, Klimafolgenanpassung, Schaden & Unfall
+- [Stellungnahme zur Streichung der Gewerbeerlaubnisfreiheit für Vermittler in Nebentätigkeit](stellungnahme-zur-streichung-der-gewerbeerlaubnisfreiheit-fur-vermittl.md) — 2025-09-15 · Stellungnahme · Regulierung
+- [Stellungnahme zur nachgelagerten Verordnung von Solvency II (engl.)](stellungnahme-zur-nachgelagerten-verordnung-von-solvency-ii-engl.md) — 2025-09-05 · Stellungnahme · Regulierung
+- [GDV-Stellungnahme zur EU-Konsultation zur ergänzenden Altersvorsorge](gdv-stellungnahme-zur-eu-konsultation-zur-erganzenden-altersvorsorge.md) — 2025-09-01 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme zum Referentenentwurf eines Gesetzes zur Förderung privater Investitionen und des Finanzstandorts](stellungnahme-zum-referentenentwurf-eines-gesetzes-zur-forderung-priva.md) — 2025-08-29 · Stellungnahme · Regulierung
+- [Stellungnahme zum SGB VI-AnpG](stellungnahme-zum-sgb-vi-anpg.md) — 2025-08-27 · Stellungnahme · Rente & Vorsorge, Private Altersvorsorge
+- [Positionspapier zur gemeinsamen Abrechnung von Alt- und Neubestand bei Lebensversicherungen und Pensionskassen](positionspapier-zur-gemeinsamen-abrechnung-von-alt-und-neubestand-bei.md) — 2025-08-26 · Stellungnahme · Rente & Vorsorge, Regulierung
+- [GDV-Stellungnahme zur Verordnung zur Änderung der Fahrzeug-Zulassungsverordnung](gdv-stellungnahme-zur-verordnung-zur-anderung-der-fahrzeug-zulassungsv.md) — 2025-08-18 · Stellungnahme · Mobilität, Politische Positionen
+- [Stellungnahme zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität](stellungnahme-zur-errichtung-eines-sondervermogens-infrastruktur-und-k.md) — 2025-08-12 · Stellungnahme · Regulierung, Konjunktur & Märkte
+- [Wirtschaft fordert weitere Vereinfachungen bei der Umsetzung der globalen Mindeststeuer](wirtschaft-fordert-weitere-vereinfachungen-bei-der-umsetzung-der-globa.md) — 2025-08-11 · Stellungnahme · Regulierung
+- [Stellungnahme zum Referentenentwurf eines 2. Betriebsrentenstärkungsgesetzes](stellungnahme-zum-referentenentwurf-eines-2-betriebsrentenstarkungsges.md) — 2025-08-07 · Stellungnahme · Rente & Vorsorge, Betriebliche Altersversorgung
+- [Stellungnahme zur Änderung des Verbrauchervertrags- und des Versicherungsvertragsrechts](stellungnahme-zur-anderung-des-verbrauchervertrags-und-des-versicherun.md) — 2025-08-01 · Stellungnahme · Regulierung
+- [Positionspapier zur Umsetzung der Solvency-II-Änderungsrichtlinie in das Versicherungsaufsichtsgesetz (VAG)](positionspapier-zur-umsetzung-der-solvency-ii-anderungsrichtlinie-in-d.md) — 2025-07-31 · Positionspapier · Regulierung, Politik
+- [Positionspapier zur Umsetzung der DORA-Anforderung „Encryption in Use“](positionspapier-zur-umsetzung-der-dora-anforderung-encryption-in-use.md) — 2025-07-30 · Stellungnahme · Digitalisierung, Regulierung
+- [Stellungnahme zur Änderung des Gesetzes gegen unlauteren Wettbewerb (UWG)](stellungnahme-zur-anderung-des-gesetzes-gegen-unlauteren-wettbewerb-uw.md) — 2025-07-25 · Stellungnahme · Konjunktur & Märkte, Regulierung
+- [Eingabe zu steuerlichen Arbeitsanreizen](eingabe-zu-steuerlichen-arbeitsanreizen.md) — 2025-07-22 · Stellungnahme · Regulierung
+- [GDV-Stellungnahme zur EU-Sondierung zu ergänzender Altersvorsorge](gdv-stellungnahme-zur-eu-sondierung-zu-erganzender-altersvorsorge.md) — 2025-07-22 · Stellungnahme · Rente & Vorsorge
+- [Gemeinsame Stellungnahme des GDV, VDIK, VDA und ZKA zur Umsetzung der Richtlinie über Verbraucherkreditverträge](gemeinsame-stellungnahme-des-gdv-vdik-vda-und-zka-zur-umsetzung-der-ri.md) — 2025-07-21 · Stellungnahme · Regulierung
+- [GDV-Stellungnahme zur Umsetzung der Richtline über Verbraucherkreditverträge](gdv-stellungnahme-zur-umsetzung-der-richtline-uber-verbraucherkreditve.md) — 2025-07-21 · Stellungnahme · Regulierung
+- [GDV-Stellungnahme zum CSRD-Umsetzungsgesetz](gdv-stellungnahme-zum-csrd-umsetzungsgesetz.md) — 2025-07-21 · Stellungnahme · Nachhaltigkeit, Regulierung
+- [Positionspapier zur Frühstart-Rente](positionspapier-zur-fruhstart-rente.md) — 2025-07-17 · Positionspapier · Rente & Vorsorge
+- [Die Zeit läuft: Fünf politische Weichenstellungen für ein erfolgreiches eIDAS Ökosystem](die-zeit-lauft-funf-politische-weichenstellungen-fur-ein-erfolgreiches.md) — 2025-07-17 · Positionspapier · Digitalisierung
+- [Referentenentwurf eines DAC-8-Umsetzungsgesetzes](referentenentwurf-eines-dac-8-umsetzungsgesetzes.md) — 2025-07-15 · Stellungnahme · Regulierung
+- [GDV-Stellungnahme zu EU-Spar- und Anlagekonten](gdv-stellungnahme-zu-eu-spar-und-anlagekonten.md) — 2025-07-10 · Stellungnahme · Regulierung
+- [Stellungnahme zum GDV-Rentenpaket](stellungnahme-zum-gdv-rentenpaket.md) — 2025-07-10 · Stellungnahme · Rente & Vorsorge
+- [Positionspapier zur Makroprudentiellen Aufsicht in der Versicherungswirtschaft](positionspapier-zur-makroprudentiellen-aufsicht-in-der-versicherungswi.md) — 2025-07-01 · Stellungnahme · Regulierung
+- [Stellungnahme zur Entwicklung und Erprobung eines Online-Verfahrens in der Zivilgerichtsbarkeit](stellungnahme-zur-entwicklung-und-erprobung-eines-online-verfahrens-in.md) — 2025-07-01 · Stellungnahme · Schaden & Unfall
+- [Wirtschaft begrüßt Steuersofortprogramm](wirtschaft-begrusst-steuersofortprogramm.md) — 2025-06-23 · Stellungnahme · Regulierung
+- [Positionspapier zur Branddetektion und -bekämpfung beim Transport von Elektrofahrzeugen auf RoRo-Schiffen](positionspapier-zur-branddetektion-und-bekampfung-beim-transport-von-e.md) — 2025-06-05 · Stellungnahme · Transport & Logistik, Schaden & Unfall
+- [Stellungnahme zur Reform der Offenlegungsverordnung (SFDR) (englisch)](stellungnahme-zur-reform-der-offenlegungsverordnung-sfdr-englisch.md) — 2025-06-05 · Stellungnahme · Regulierung
+- [Stärkung der Wettbewerbsfähigkeit durch Vereinfachungen im nationalen Recht](starkung-der-wettbewerbsfahigkeit-durch-vereinfachungen-im-nationalen.md) — 2025-05-28 · Positionspapier · Politik, Regulierung
+- [Green Claims Richtlinie – Bürokratieabbau statt neuer Hürden](green-claims-richtlinie-burokratieabbau-statt-neuer-hurden.md) — 2025-05-28 · Stellungnahme · Nachhaltigkeit, Regulierung
+- [Positionspapier zum digitalen Omnibus](positionspapier-zum-digitalen-omnibus.md) — 2025-05-20 · Positionspapier · Digitalisierung, Cybersicherheit, Regulierung
+- [Positionspapier zur geplanten Überarbeitung der EU-Nachhaltigkeitsberichterstattung (engl.)](positionspapier-zur-geplanten-uberarbeitung-der-eu-nachhaltigkeitsberi.md) — 2025-05-06 · Positionspapier · Nachhaltigkeit, Regulierung
+- [Finale Verbandskommentierung zum ersten Omnibus-Paket](finale-verbandskommentierung-zum-ersten-omnibus-paket.md) — 2025-04-11 · Positionspapier · Nachhaltigkeit, Regulierung
+- [Taxonomieverordnung: GDV fordert weitere Anpassungen](taxonomieverordnung-gdv-fordert-weitere-anpassungen.md) — 2025-04-07 · Stellungnahme · Nachhaltigkeit, Regulierung
+- [Positionspapier zur Ausweitung der privaten Verkehrsinfrastrukturfinanzierung](positionspapier-zur-ausweitung-der-privaten-verkehrsinfrastrukturfinan.md) — 2025-03-27 · Positionspapier · Regulierung, Gesellschaft, Versicherungswirtschaft
+- [Stellungnahme zum Gesetz zur Umsetzung der Richtlinie zum ökologischen Wandel](stellungnahme-zum-gesetz-zur-umsetzung-der-richtlinie-zum-okologischen.md) — 2025-03-05 · Stellungnahme · Regulierung
+- [Consultation on the proposal for RTS on management of sustainability risks including sustainability risk plans](consultation-on-the-proposal-for-rts-on-management-of-sustainability-r.md) — 2025-03-05 · Stellungnahme · Nachhaltigkeit
+- [Stellungnahme zum Diskussionsentwurf eines Dritten Gesetzes zur Änderung des Gesetzes gegen den unlauteren Wettbewerb](stellungnahme-zum-diskussionsentwurf-eines-dritten-gesetzes-zur-anderu.md) — 2025-02-26 · Stellungnahme · Konjunktur & Märkte
+- [Wirtschaft kritisiert geplante Buchführungsschnittstelle](wirtschaft-kritisiert-geplante-buchfuhrungsschnittstelle.md) — 2025-02-24 · Stellungnahme · Steuern
+- [Positionspapier Maintaining Europe's Competitive Edge in Insurance and Beyond](positionspapier-maintaining-europe-s-competitive-edge-in-insurance-and.md) — 2025-02-20 · Stellungnahme · Regulierung
+- [Stellungnahme zum Diskussionsentwurf eines Gesetzes zur Änderung des Verbrauchervertrags- und des Versicherungsvertragsrechts](stellungnahme-zum-diskussionsentwurf-eines-gesetzes-zur-anderung-des-v.md) — 2025-02-13 · Stellungnahme · Regulierung
+- [Verbändestellungnahme zur Mindeststeueranpassung](verbandestellungnahme-zur-mindeststeueranpassung.md) — 2025-02-10 · Stellungnahme · Regulierung
+- [Stellungnahme zum öffentlichen Entwurf der BaFin zum Grundsatz der unternehmerischen Vorsicht von Versicherungsunternehmen unter Solvency II](stellungnahme-zum-offentlichen-entwurf-der-bafin-zum-grundsatz-der-unt.md) — 2025-02-04 · Stellungnahme · Regulierung
+- [EMIR 3.0 - Beschränkung der Berichtspflichten zum Active Account Requirement gefordert](emir-3-0-beschrankung-der-berichtspflichten-zum-active-account-require.md) — 2025-01-27 · Stellungnahme · Regulierung
+- [Positionspapier zum Omnibus Simplification Package (englisch)](positionspapier-zum-omnibus-simplification-package-englisch.md) — 2025-01-21 · Positionspapier · Regulierung, Nachhaltigkeit
+- [Stellungnahme zum EU-Vertragsverletzungsverfahren zur Umsetzung der Versicherungsvertriebsrichtlinie](stellungnahme-zum-eu-vertragsverletzungsverfahren-zur-umsetzung-der-ve.md) — 2025-01-16 · Stellungnahme · Regulierung

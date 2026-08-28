@@ -1,0 +1,46 @@
+# Stellungnahmen 2021
+
+42 Dokument(e), neueste zuerst.
+
+- [Stellungnahme EIOPA-Konsultation zu QRT-Änderungen](stellungnahme-eiopa-konsultation-zu-qrt-anderungen.md) — 2021-11-18 · Stellungnahme · Politik
+- [IFRS Practice Statement 1 - Commentary](ifrs-practice-statement-1-commentary.md) — 2021-11-11 · Stellungnahme · Politik
+- [Gesamtkonzept der deutschen Versicherer zur Zukunft der Versicherung gegen Naturgefahrenereignisse in Deutschland](gesamtkonzept-der-deutschen-versicherer-zur-zukunft-der-versicherung-g.md) — 2021-10-29 · Stellungnahme · Politik, Naturgefahren
+- [Positionspapier zur obligatorischen Berufshaftpflichtversicherung gemäß § 23 Abs. 1 Nr. 3 Betreuungsorganisationsgesetz (BtOG)](positionspapier-zur-obligatorischen-berufshaftpflichtversicherung-gema.md) — 2021-10-19 · Stellungnahme · Politik
+- [Stellungnahme EFRAG-Verfahrensvorschlag zu Ausarbeitung CSRD-Nachhaltigkeitsstandards](stellungnahme-efrag-verfahrensvorschlag-zu-ausarbeitung-csrd-nachhalti.md) — 2021-10-01 · Stellungnahme · Politik
+- [Positionspapier der Versicherungswirtschaft zur geplanten EU-Verordnung zu künstlicher Intelligenz](positionspapier-der-versicherungswirtschaft-zur-geplanten-eu-verordnun.md) — 2021-09-30 · Positionspapier · Digitalisierung, Regulierung
+- [Stellungnahme zu EU-Kommissionsvorschlag Green-Bond-Standard](stellungnahme-zu-eu-kommissionsvorschlag-green-bond-standard.md) — 2021-09-27 · Stellungnahme · Nachhaltigkeit, Regulierung
+- [Stellungnahme IASB-Vorschlag zu Anpassung IFRS 17 / IFRS 9](stellungnahme-iasb-vorschlag-zu-anpassung-ifrs-17-ifrs-9.md) — 2021-09-16 · Stellungnahme · Politik
+- [Stellungnahme IASB-Agenda 2022-2026 und EFRAG Forschungsprogramm](stellungnahme-iasb-agenda-2022-2026-und-efrag-forschungsprogramm.md) — 2021-09-16 · Stellungnahme · Politik
+- [Short-term export credit insurance: Comments on the proposed revised Communication on the application of Articles 107 and 108 of the Treaty on the Functioning of the EU](short-term-export-credit-insurance-comments-on-the-proposed-revised-co.md) — 2021-09-09 · Stellungnahme · Politik
+- [Positionspapier: Der digitale Euro aus Sicht der deutschen Versicherungswirtschaft](positionspapier-der-digitale-euro-aus-sicht-der-deutschen-versicherung.md) — 2021-08-11 · Positionspapier · Digitalisierung, Politik, Konjunktur & Märkte, Europa
+- [Stellungnahme zu Einrichtung eines International Sustainability Standards Board (ISSB) bei der IFRS Foundation](stellungnahme-zu-einrichtung-eines-international-sustainability-standa.md) — 2021-07-30 · Stellungnahme · Politik, Regulierung
+- [Stellungnahme im Rahmen der Better Regulation-Konsultation der EU-Kommission (auf Englisch)](stellungnahme-im-rahmen-der-better-regulation-konsultation-der-eu-komm.md) — 2021-07-19 · Stellungnahme · Politik, Regulierung
+- [Stellungnahme BMJV-Konsultation CSR-Richtlinienvorschlag](stellungnahme-bmjv-konsultation-csr-richtlinienvorschlag.md) — 2021-06-15 · Stellungnahme · Politik
+- [Stellungnahme zur Geschäftsorganisation und Erlaubniserteilung des Reisesicherungsfonds](stellungnahme-zur-geschaftsorganisation-und-erlaubniserteilung-des-rei.md) — 2021-05-21 · Stellungnahme · Mobilität, Politik
+- [Stellungnahme zum Steueroasen-Abwehrgesetz](stellungnahme-zum-steueroasen-abwehrgesetz.md) — 2021-05-19 · Stellungnahme · Politik
+- [Stellungnahme zum Körperschaftsmodernisierungsgesetz](stellungnahme-zum-korperschaftsmodernisierungsgesetz.md) — 2021-05-06 · Stellungnahme · Politik
+- [Verbändeschreiben zur Umsetzung des Schrems II-Urteils des EuGH](verbandeschreiben-zur-umsetzung-des-schrems-ii-urteils-des-eugh.md) — 2021-05-06 · Stellungnahme · Politik, Digitalisierung
+- [Stellungnahme zur EIOPA-Konsultation "Open Insurance: Accessing and sharing insurance-related data"](stellungnahme-zur-eiopa-konsultation-open-insurance-accessing-and-shar.md) — 2021-04-30 · Stellungnahme · Politik, Digitalisierung, Regulierung
+- [Stellungnahme zum Kapitalertragsteuerabzug](stellungnahme-zum-kapitalertragsteuerabzug.md) — 2021-04-13 · Stellungnahme · Politik
+- [Stellungnahme zu BMF-Vorschlag Absenkung Höchstrechnungszins](stellungnahme-zu-bmf-vorschlag-absenkung-hochstrechnungszins.md) — 2021-04-01 · Stellungnahme · Politik
+- [Stellungnahme zum Entwurf eines Gesetzes zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften](stellungnahme-zum-entwurf-eines-gesetzes-zur-neuregelung-des-berufsrec.md) — 2021-03-31 · Stellungnahme · Politik
+- [Positionspapier für ein zeitgemäßes und nachhaltiges Bauen](positionspapier-fur-ein-zeitgemasses-und-nachhaltiges-bauen.md) — 2021-03-17 · Positionspapier
+- [Stellungnahme zum Regierungsentwurf eines Gesetzes über die Insolvenzsicherung durch Reisesicherungsfonds](stellungnahme-zum-regierungsentwurf-eines-gesetzes-uber-die-insolvenzs.md) — 2021-03-16 · Stellungnahme · Politik, Mobilität
+- [Zweite Stufe Mehrwertsteuer-Digitalpaket - Verbändestellungnahme zu Entwurf BMF-Schreiben](zweite-stufe-mehrwertsteuer-digitalpaket-verbandestellungnahme-zu-entw.md) — 2021-03-12 · Stellungnahme · Politik
+- [Stellungnahme Gesetzentwurf zu Provisionsdeckel und PEPP](stellungnahme-gesetzentwurf-zu-provisionsdeckel-und-pepp.md) — 2021-03-02 · Stellungnahme · Politik
+- [Stellungnahme BMJV-Gesetzentwurf Musterwiderrufsbelehrung](stellungnahme-bmjv-gesetzentwurf-musterwiderrufsbelehrung.md) — 2021-03-02 · Stellungnahme · Politik
+- [Klimawandel und SII-Standardformel - Stellungnahme zu EIOPA-Diskussionspapier](klimawandel-und-sii-standardformel-stellungnahme-zu-eiopa-diskussionsp.md) — 2021-03-01 · Stellungnahme · Politik, Klima, Regulierung
+- [Stellungnahme zum Entwurf des Dritten Corona-Steuerhilfegesetzes](stellungnahme-zum-entwurf-des-dritten-corona-steuerhilfegesetzes.md) — 2021-03-01 · Stellungnahme · Politik
+- [Stellungnahme zum Regierungsentwurf eines Gesetzes zur Förderung verbrauchergerechter Angebote im Rechtsdienstleistungsmarkt](stellungnahme-zum-regierungsentwurf-eines-gesetzes-zur-forderung-verbr.md) — 2021-03-01 · Stellungnahme
+- [Stellungnahme zum elektronischen Frachtbrief (e-CMR)](stellungnahme-zum-elektronischen-frachtbrief-e-cmr.md) — 2021-02-19 · Stellungnahme · Politik
+- [Stellungnahme zum FISG-Regierungsentwurf](stellungnahme-zum-fisg-regierungsentwurf.md) — 2021-02-19 · Stellungnahme · Politik
+- [Stellungnahme VAG-E zu Nachschüssen für regulierte Pensionskassen](stellungnahme-vag-e-zu-nachschussen-fur-regulierte-pensionskassen.md) — 2021-02-19 · Stellungnahme · Politik, Regulierung
+- [Stellungnahme zum Referentenentwurf über die Insolvenzsicherung durch Reisesicherungsfonds](stellungnahme-zum-referentenentwurf-uber-die-insolvenzsicherung-durch.md) — 2021-02-04 · Stellungnahme · Politik, Mobilität
+- [Stellungnahme zum Gesetzentwurf zur Änderung straßenverkehrsrechtlicher Vorschriften (Gesetz zum autonomen Fahren)](stellungnahme-zum-gesetzentwurf-zur-anderung-strassenverkehrsrechtlich.md) — 2021-02-03 · Stellungnahme · Politik, Mobilität
+- [Stellungnahme zum Personalausweisgesetz und anderen Gesetzen](stellungnahme-zum-personalausweisgesetz-und-anderen-gesetzen.md) — 2021-02-03 · Stellungnahme · Digitalisierung, Politik, Gesellschaft
+- [EFRAG-Konsultation zu IFRS 17](efrag-konsultation-zu-ifrs-17.md) — 2021-02-01 · Stellungnahme · Politik
+- [Stellungnahme zum IT-Sicherheitsgesetz 2.0](stellungnahme-zum-it-sicherheitsgesetz-2-0.md) — 2021-01-27 · Stellungnahme · Politik
+- [RTS der ESAs zu Transparenzverordnung](rts-der-esas-zu-transparenzverordnung.md) — 2021-01-15 · Stellungnahme · Politik
+- [Ausbau des elektronischen Rechtsverkehrs](ausbau-des-elektronischen-rechtsverkehrs.md) — 2021-01-13 · Stellungnahme · Politik
+- [IFRS - Consultation Paper on Sustainability Reporting](ifrs-consultation-paper-on-sustainability-reporting.md) — 2021-01-12 · Stellungnahme · Politik
+- [ORSA and Climate Risks - EIOPA-Consultation](orsa-and-climate-risks-eiopa-consultation.md) — 2021-01-07 · Stellungnahme · Politik

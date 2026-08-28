@@ -1,0 +1,154 @@
+---
+type: Themenregister
+title: "GDV-Positionen: Regulierung"
+description: "Alle GDV-Stellungnahmen und Positionspapiere zum Thema Regulierung, neueste zuerst."
+thema: "Regulierung"
+anzahl: 139
+zeitraum: 2020-01-14/2026-06-29
+tags: ["gdv", "themenregister", "regulierung"]
+timestamp: 2026-08-17T07:10:58Z
+---
+
+# GDV-Positionen zum Thema: Regulierung
+
+139 Dokument(e) im Zeitraum 2020-01-14 bis 2026-06-29, neueste zuerst. Für die aktuelle Position das oberste Dokument lesen; die Reihenfolge zeigt die Entwicklung im Zeitverlauf.
+
+- [Positionspapier zum Recht auf Vergessenwerden nach Krebs](/stellungnahmen/2026/positionspapier-zum-recht-auf-vergessenwerden-nach-krebs.md) — 2026-06-29 · Stellungnahme
+- [GDV position on minimum common standards for Insurance Guarantee Schemes (IGS) in the EU](/stellungnahmen/2026/gdv-position-on-minimum-common-standards-for-insurance-guarantee-schem.md) — 2026-06-26 · Stellungnahme
+- [Ein neues Mindset im EU-Steuerrecht – Vorschläge zur Vereinfachung](/stellungnahmen/2026/ein-neues-mindset-im-eu-steuerrecht-vorschlage-zur-vereinfachung.md) — 2026-06-23 · Positionspapier
+- [Vorschläge für eine Reform des Unternehmenssteuerrechts](/stellungnahmen/2026/vorschlage-fur-eine-reform-des-unternehmenssteuerrechts.md) — 2026-06-23 · Positionspapier
+- [Wirtschaft kritisiert Buchführungsdatenschnittstelle](/stellungnahmen/2026/wirtschaft-kritisiert-buchfuhrungsdatenschnittstelle.md) — 2026-06-16 · Stellungnahme
+- [Stellungnahme zum Jahressteuergesetz 2026](/stellungnahmen/2026/stellungnahme-zum-jahressteuergesetz-2026.md) — 2026-06-15 · Stellungnahme
+- [Reform des Statusfeststellungsverfahrens](/stellungnahmen/2026/reform-des-statusfeststellungsverfahrens.md) — 2026-06-10 · Stellungnahme
+- [Stellungnahme zum Entwurf der Darlehensvermittlungsverordnung](/stellungnahmen/2026/stellungnahme-zum-entwurf-der-darlehensvermittlungsverordnung.md) — 2026-06-10 · Stellungnahme
+- [Stellungnahme zu den fachlichen Empfehlungen der EFRAG zum ESRS-Vereinfachungsauftrag (engl.)](/stellungnahmen/2026/stellungnahme-zu-den-fachlichen-empfehlungen-der-efrag-zum-esrs-verein.md) — 2026-06-03 · Positionspapier
+- [Gemeinsame Verbände-Stellungnahme zum datenschutzrechtlichen Teil des Digitalen Omnibus](/stellungnahmen/2026/gemeinsame-verbande-stellungnahme-zum-datenschutzrechtlichen-teil-des.md) — 2026-05-28 · Stellungnahme
+- [Stellungnahme zur Konsultation zu Exits und Sekundärmärkten (Englisch)](/stellungnahmen/2026/stellungnahme-zur-konsultation-zu-exits-und-sekundarmarkten-englisch.md) — 2026-05-26 · Stellungnahme
+- [Positionspapier (engl.): E6 insurance markets call for decisive action in support of a resilient and future-oriented EU economy](/stellungnahmen/2026/positionspapier-engl-e6-insurance-markets-call-for-decisive-action-in.md) — 2026-05-26 · Positionspapier
+- [Regierungsentwurf VSAAG - Positionen der Versicherungswirtschaft](/stellungnahmen/2026/regierungsentwurf-vsaag-positionen-der-versicherungswirtschaft.md) — 2026-05-19 · Stellungnahme
+- [Stellungnahme zum Gesetzentwurf für ein Versicherungs-Sanierungs-Abwicklungs-und- Aufsichtsänderungs-Gesetz (VSAAG)](/stellungnahmen/2026/stellungnahme-zum-gesetzentwurf-fur-ein-versicherungs-sanierungs-abwic.md) — 2026-05-19 · Stellungnahme
+- [Stellungnahme zum Entwurf eines ersten Unternehmensstatistikreformgesetzes](/stellungnahmen/2026/stellungnahme-zum-entwurf-eines-ersten-unternehmensstatistikreformgese.md) — 2026-04-22 · Stellungnahme
+- [Anforderungen an einen wettbewerbskonformen Standarddepot-Vertrag in öffentlicher Trägerschaft](/stellungnahmen/2026/anforderungen-an-einen-wettbewerbskonformen-standarddepot-vertrag-in-o.md) — 2026-04-22 · Positionspapier
+- [Offenlegungs-VO: GDV reicht Stellungnahme zu Vorschlägen für den Review ein](/stellungnahmen/2026/offenlegungs-vo-gdv-reicht-stellungnahme-zu-vorschlagen-fur-den-review.md) — 2026-04-21 · Stellungnahme
+- [Positionspapier zur „Modernisierungsagenda für Staat und Verwaltung (Bund)"](/stellungnahmen/2026/positionspapier-zur-modernisierungsagenda-fur-staat-und-verwaltung-bun.md) — 2026-04-21 · Positionspapier
+- [Positionen zur „Modernisierungsagenda für Staat und Verwaltung (Bund)“ (Kurzversion)](/stellungnahmen/2026/positionen-zur-modernisierungsagenda-fur-staat-und-verwaltung-bund-kur.md) — 2026-04-21 · Positionspapier
+- [Stellungnahme an die Alterssicherungskommission](/stellungnahmen/2026/stellungnahme-an-die-alterssicherungskommission.md) — 2026-04-17 · Stellungnahme
+- [Stellungnahme zu den Änderungen der Bewertungskriterien bei der Taxonomieverordnung](/stellungnahmen/2026/stellungnahme-zu-den-anderungen-der-bewertungskriterien-bei-der-taxono.md) — 2026-04-16 · Stellungnahme
+- [Stellungnahme zum Gesetzentwurf der Bundesregierung zur Änderung des Steuerberatungsgesetzes](/stellungnahmen/2026/stellungnahme-zum-gesetzentwurf-der-bundesregierung-zur-anderung-des-s.md) — 2026-04-15 · Stellungnahme
+- [Stellungnahme zum Referentenentwurf eines Gesetzes für mehr Gerechtigkeit durch die Stärkung der Zollverwaltung und die Bekämpfung der Finanzkriminalität](/stellungnahmen/2026/stellungnahme-zum-referentenentwurf-eines-gesetzes-fur-mehr-gerechtigk.md) — 2026-03-31 · Stellungnahme
+- [Stellungnahme zum Entwurf eines Neunten Gesetzes zur Änderung des Steuerberatungsgesetzes](/stellungnahmen/2026/stellungnahme-zum-entwurf-eines-neunten-gesetzes-zur-anderung-des-steu.md) — 2026-03-25 · Stellungnahme
+- [Stellungnahme zu weiteren Vereinfachungen und Anpassungen bei der Mindeststeuer](/stellungnahmen/2026/stellungnahme-zu-weiteren-vereinfachungen-und-anpassungen-bei-der-mind.md) — 2026-03-25 · Stellungnahme
+- [Ein neues Mindset im EU-Steuerrecht – Vorschläge zur Vereinfachung](/stellungnahmen/2026/ein-neues-mindset-im-eu-steuerrecht-vorschlage-zur-vereinfachung-197876.md) — 2026-03-17 · Positionspapier
+- [Stellungnahme zum Referentenentwurf für ein Versicherungssanierungs-, -abwicklungs- und -aufsichtsänderungsgesetz (VSAAG)](/stellungnahmen/2026/stellungnahme-zum-referentenentwurf-fur-ein-versicherungssanierungs-ab.md) — 2026-03-10 · Stellungnahme
+- [Vorschläge zur Entbürokratisierung des Steuerrechts](/stellungnahmen/2026/vorschlage-zur-entburokratisierung-des-steuerrechts.md) — 2026-01-22 · Stellungnahme
+- [Comment on EFRAG’s technical advice on the ESRS simplification mandate](/stellungnahmen/2026/comment-on-efrags-technical-advice-on-the-esrs-simplification-mandate.md) — 2026-01-14 · Stellungnahme
+- [Umsatzsteuerbefreiung für die Verpachtung von Betriebsvorrichtungen](/stellungnahmen/2026/umsatzsteuerbefreiung-fur-die-verpachtung-von-betriebsvorrichtungen.md) — 2026-01-08 · Stellungnahme
+- [Stellungnahme zum Regierungsentwurf des Bankenrichtlinienumsetzungs- und Bürokratieentlastungsgesetzes (BRUBEG)](/stellungnahmen/2025/stellungnahme-zum-regierungsentwurf-des-bankenrichtlinienumset-zungs-u.md) — 2025-12-22 · Stellungnahme
+- [GDV-Positionspapier zur Definition eines KI-Systems](/stellungnahmen/2025/gdv-positionspapier-zur-definition-eines-ki-systems.md) — 2025-12-22 · Positionspapier
+- [Taxonomieverordnung: Verband fordert Anpassungen für eine praxisnahe Anwendung](/stellungnahmen/2025/taxonomieverordnung-verband-fordert-anpassungen-fur-eine-praxisnahe-an.md) — 2025-12-10 · Stellungnahme
+- [Finanzierung von Transformation und Wettbewerbsfähigkeit voranbringen](/stellungnahmen/2025/finanzierung-von-transformation-und-wettbewerbsfahigkeit-voranbringen.md) — 2025-11-07 · Positionspapier
+- [Stellungnahme zum CSRD-Umsetzungsgesetz](/stellungnahmen/2025/stellungnahme-zum-csrd-umsetzungsgesetz.md) — 2025-10-16 · Stellungnahme
+- [GDV-Stellungnahme zur EIOPA-Konsultation über aufsichtsrechtliche Melde- und Offenlegungspflichten (engl.)](/stellungnahmen/2025/gdv-stellungnahme-zur-eiopa-konsultation-uber-aufsichtsrechtliche-meld.md) — 2025-10-13 · Stellungnahme
+- [Stellungnahme zum Gesetzentwurf zur Modernisierung und Digitalisierung der Schwarzarbeitsbekämpfung](/stellungnahmen/2025/stellungnahme-zum-gesetzentwurf-zur-modernisierung-und-digitalisierung.md) — 2025-10-09 · Stellungnahme
+- [Stellungnahme zum Regierungsentwurf eines Gesetzes zur Änderung des Verbrauchervertrags- und des Versicherungsvertragsrechts](/stellungnahmen/2025/stellungnahme-zum-regierungsentwurf-eines-gesetzes-zur-anderung-des-ve.md) — 2025-10-01 · Stellungnahme
+- [Steuerliche Behandlung des Arbeitslohns nach DBA](/stellungnahmen/2025/steuerliche-behandlung-des-arbeitslohns-nach-dba.md) — 2025-09-29 · Stellungnahme
+- [Positionspapier zu den überarbeiteten Entwürfen des ESRS (englisch)](/stellungnahmen/2025/positionspapier-zu-den-uberarbeiteten-entwurfen-des-esrs-englisch.md) — 2025-09-29 · Positionspapier
+- [Stellungnahme zur Streichung der Gewerbeerlaubnisfreiheit für Vermittler in Nebentätigkeit](/stellungnahmen/2025/stellungnahme-zur-streichung-der-gewerbeerlaubnisfreiheit-fur-vermittl.md) — 2025-09-15 · Stellungnahme
+- [Stellungnahme zur nachgelagerten Verordnung von Solvency II (engl.)](/stellungnahmen/2025/stellungnahme-zur-nachgelagerten-verordnung-von-solvency-ii-engl.md) — 2025-09-05 · Stellungnahme
+- [Stellungnahme zum Referentenentwurf eines Gesetzes zur Förderung privater Investitionen und des Finanzstandorts](/stellungnahmen/2025/stellungnahme-zum-referentenentwurf-eines-gesetzes-zur-forderung-priva.md) — 2025-08-29 · Stellungnahme
+- [Positionspapier zur gemeinsamen Abrechnung von Alt- und Neubestand bei Lebensversicherungen und Pensionskassen](/stellungnahmen/2025/positionspapier-zur-gemeinsamen-abrechnung-von-alt-und-neubestand-bei.md) — 2025-08-26 · Stellungnahme
+- [Stellungnahme zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität](/stellungnahmen/2025/stellungnahme-zur-errichtung-eines-sondervermogens-infrastruktur-und-k.md) — 2025-08-12 · Stellungnahme
+- [Wirtschaft fordert weitere Vereinfachungen bei der Umsetzung der globalen Mindeststeuer](/stellungnahmen/2025/wirtschaft-fordert-weitere-vereinfachungen-bei-der-umsetzung-der-globa.md) — 2025-08-11 · Stellungnahme
+- [Stellungnahme zur Änderung des Verbrauchervertrags- und des Versicherungsvertragsrechts](/stellungnahmen/2025/stellungnahme-zur-anderung-des-verbrauchervertrags-und-des-versicherun.md) — 2025-08-01 · Stellungnahme
+- [Positionspapier zur Umsetzung der Solvency-II-Änderungsrichtlinie in das Versicherungsaufsichtsgesetz (VAG)](/stellungnahmen/2025/positionspapier-zur-umsetzung-der-solvency-ii-anderungsrichtlinie-in-d.md) — 2025-07-31 · Positionspapier
+- [Positionspapier zur Umsetzung der DORA-Anforderung „Encryption in Use“](/stellungnahmen/2025/positionspapier-zur-umsetzung-der-dora-anforderung-encryption-in-use.md) — 2025-07-30 · Stellungnahme
+- [Stellungnahme zur Änderung des Gesetzes gegen unlauteren Wettbewerb (UWG)](/stellungnahmen/2025/stellungnahme-zur-anderung-des-gesetzes-gegen-unlauteren-wettbewerb-uw.md) — 2025-07-25 · Stellungnahme
+- [Eingabe zu steuerlichen Arbeitsanreizen](/stellungnahmen/2025/eingabe-zu-steuerlichen-arbeitsanreizen.md) — 2025-07-22 · Stellungnahme
+- [Gemeinsame Stellungnahme des GDV, VDIK, VDA und ZKA zur Umsetzung der Richtlinie über Verbraucherkreditverträge](/stellungnahmen/2025/gemeinsame-stellungnahme-des-gdv-vdik-vda-und-zka-zur-umsetzung-der-ri.md) — 2025-07-21 · Stellungnahme
+- [GDV-Stellungnahme zur Umsetzung der Richtline über Verbraucherkreditverträge](/stellungnahmen/2025/gdv-stellungnahme-zur-umsetzung-der-richtline-uber-verbraucherkreditve.md) — 2025-07-21 · Stellungnahme
+- [GDV-Stellungnahme zum CSRD-Umsetzungsgesetz](/stellungnahmen/2025/gdv-stellungnahme-zum-csrd-umsetzungsgesetz.md) — 2025-07-21 · Stellungnahme
+- [Referentenentwurf eines DAC-8-Umsetzungsgesetzes](/stellungnahmen/2025/referentenentwurf-eines-dac-8-umsetzungsgesetzes.md) — 2025-07-15 · Stellungnahme
+- [GDV-Stellungnahme zu EU-Spar- und Anlagekonten](/stellungnahmen/2025/gdv-stellungnahme-zu-eu-spar-und-anlagekonten.md) — 2025-07-10 · Stellungnahme
+- [Positionspapier zur Makroprudentiellen Aufsicht in der Versicherungswirtschaft](/stellungnahmen/2025/positionspapier-zur-makroprudentiellen-aufsicht-in-der-versicherungswi.md) — 2025-07-01 · Stellungnahme
+- [Wirtschaft begrüßt Steuersofortprogramm](/stellungnahmen/2025/wirtschaft-begrusst-steuersofortprogramm.md) — 2025-06-23 · Stellungnahme
+- [Stellungnahme zur Reform der Offenlegungsverordnung (SFDR) (englisch)](/stellungnahmen/2025/stellungnahme-zur-reform-der-offenlegungsverordnung-sfdr-englisch.md) — 2025-06-05 · Stellungnahme
+- [Stärkung der Wettbewerbsfähigkeit durch Vereinfachungen im nationalen Recht](/stellungnahmen/2025/starkung-der-wettbewerbsfahigkeit-durch-vereinfachungen-im-nationalen.md) — 2025-05-28 · Positionspapier
+- [Green Claims Richtlinie – Bürokratieabbau statt neuer Hürden](/stellungnahmen/2025/green-claims-richtlinie-burokratieabbau-statt-neuer-hurden.md) — 2025-05-28 · Stellungnahme
+- [Positionspapier zum digitalen Omnibus](/stellungnahmen/2025/positionspapier-zum-digitalen-omnibus.md) — 2025-05-20 · Positionspapier
+- [Positionspapier zur geplanten Überarbeitung der EU-Nachhaltigkeitsberichterstattung (engl.)](/stellungnahmen/2025/positionspapier-zur-geplanten-uberarbeitung-der-eu-nachhaltigkeitsberi.md) — 2025-05-06 · Positionspapier
+- [Finale Verbandskommentierung zum ersten Omnibus-Paket](/stellungnahmen/2025/finale-verbandskommentierung-zum-ersten-omnibus-paket.md) — 2025-04-11 · Positionspapier
+- [Taxonomieverordnung: GDV fordert weitere Anpassungen](/stellungnahmen/2025/taxonomieverordnung-gdv-fordert-weitere-anpassungen.md) — 2025-04-07 · Stellungnahme
+- [Positionspapier zur Ausweitung der privaten Verkehrsinfrastrukturfinanzierung](/stellungnahmen/2025/positionspapier-zur-ausweitung-der-privaten-verkehrsinfrastrukturfinan.md) — 2025-03-27 · Positionspapier
+- [Stellungnahme zum Gesetz zur Umsetzung der Richtlinie zum ökologischen Wandel](/stellungnahmen/2025/stellungnahme-zum-gesetz-zur-umsetzung-der-richtlinie-zum-okologischen.md) — 2025-03-05 · Stellungnahme
+- [Positionspapier Maintaining Europe's Competitive Edge in Insurance and Beyond](/stellungnahmen/2025/positionspapier-maintaining-europe-s-competitive-edge-in-insurance-and.md) — 2025-02-20 · Stellungnahme
+- [Stellungnahme zum Diskussionsentwurf eines Gesetzes zur Änderung des Verbrauchervertrags- und des Versicherungsvertragsrechts](/stellungnahmen/2025/stellungnahme-zum-diskussionsentwurf-eines-gesetzes-zur-anderung-des-v.md) — 2025-02-13 · Stellungnahme
+- [Verbändestellungnahme zur Mindeststeueranpassung](/stellungnahmen/2025/verbandestellungnahme-zur-mindeststeueranpassung.md) — 2025-02-10 · Stellungnahme
+- [Stellungnahme zum öffentlichen Entwurf der BaFin zum Grundsatz der unternehmerischen Vorsicht von Versicherungsunternehmen unter Solvency II](/stellungnahmen/2025/stellungnahme-zum-offentlichen-entwurf-der-bafin-zum-grundsatz-der-unt.md) — 2025-02-04 · Stellungnahme
+- [EMIR 3.0 - Beschränkung der Berichtspflichten zum Active Account Requirement gefordert](/stellungnahmen/2025/emir-3-0-beschrankung-der-berichtspflichten-zum-active-account-require.md) — 2025-01-27 · Stellungnahme
+- [Positionspapier zum Omnibus Simplification Package (englisch)](/stellungnahmen/2025/positionspapier-zum-omnibus-simplification-package-englisch.md) — 2025-01-21 · Positionspapier
+- [Stellungnahme zum EU-Vertragsverletzungsverfahren zur Umsetzung der Versicherungsvertriebsrichtlinie](/stellungnahmen/2025/stellungnahme-zum-eu-vertragsverletzungsverfahren-zur-umsetzung-der-ve.md) — 2025-01-16 · Stellungnahme
+- [Positionspapier zu Überarbeitung der Richtlinie über die alternative Streitbeilegung in Verbraucherangelegenheiten (ADR-Richtlinie)](/stellungnahmen/2024/positionspapier-zu-uberarbeitung-der-richtlinie-uber-die-alternative-s.md) — 2024-12-03 · Stellungnahme
+- [Positionspapier für die Trilog-Verhandlungen zur Richtlinie über Umweltaussagen (Green Claims)](/stellungnahmen/2024/positionspapier-fur-die-trilog-verhandlungen-zur-richtlinie-uber-umwel.md) — 2024-11-18 · Stellungnahme
+- [Stellungnahme zum NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz](/stellungnahmen/2024/stellungnahme-zum-nis-2-umsetzungs-und-cybersicherheitsstarkungsgesetz.md) — 2024-11-01 · Stellungnahme
+- [Stellungnahme: EIOPA-Konsultation zur Behandlung von direktem Exposure gegenüber einer Central Clearingparty (CCP)](/stellungnahmen/2024/stellungnahme-eiopa-konsultation-zur-behandlung-von-direktem-exposure.md) — 2024-10-30 · Stellungnahme
+- [GDV-Stellungnahme zur Umsetzung des neuen Proportionalitätsrahmens unter Solvency II](/stellungnahmen/2024/gdv-stellungnahme-zur-umsetzung-des-neuen-proportionalitatsrahmens-unt.md) — 2024-10-25 · Stellungnahme
+- [Position paper: FiDA risks to miss its goals and jeopardises the competitiveness of Europe](/stellungnahmen/2024/position-paper-fida-risks-to-miss-its-goals-and-jeopardises-the-compet.md) — 2024-10-23 · Positionspapier
+- [Positionspapier: FiDA droht Ziele zu verfehlen und gefährdet damit die Wettbewerbsfähigkeit Europas](/stellungnahmen/2024/positionspapier-fida-droht-ziele-zu-verfehlen-und-gefahrdet-damit-die.md) — 2024-10-23 · Positionspapier
+- [Positionspapier – Den Markt für Verbriefungen stärken (Englisch)](/stellungnahmen/2024/positionspapier-den-markt-fur-verbriefungen-starken-englisch.md) — 2024-10-09 · Stellungnahme
+- [Stellungnahme zum Regierungsentwurf des Jahressteuergesetzes 2024](/stellungnahmen/2024/stellungnahme-zum-regierungsentwurf-des-jahressteuergesetzes-2024.md) — 2024-10-08 · Stellungnahme
+- [Stellungnahme zum Steuerfortentwicklungsgesetz](/stellungnahmen/2024/stellungnahme-zum-steuerfortentwicklungsgesetz.md) — 2024-10-08 · Stellungnahme
+- [Stellungnahme zum CSRD-Umsetzungsgesetz](/stellungnahmen/2024/stellungnahme-zum-csrd-umsetzungsgesetz.md) — 2024-09-24 · Stellungnahme
+- [Stellungnahme zu den Trilog-Verhandlungen zur EU-Kleinanlegerstrategie (in Englisch)](/stellungnahmen/2024/stellungnahme-zu-den-trilog-verhandlungen-zur-eu-kleinanlegerstrategie.md) — 2024-09-10 · Stellungnahme
+- [Stellungnahme zur Novellierung des EU-Arzneimittelrechts](/stellungnahmen/2024/stellungnahme-zur-novellierung-des-eu-arzneimittelrechts.md) — 2024-09-06 · Stellungnahme
+- [Stellungnahme zum Fondsmarktstärkungsgesetz](/stellungnahmen/2024/stellungnahme-zum-fondsmarktstarkungsgesetz.md) — 2024-09-06 · Stellungnahme
+- [Stellungnahme zum Referentenentwurf des zweiten Jahressteuergesetzes 2024](/stellungnahmen/2024/stellungnahme-zum-referentenentwurf-des-zweiten-jahressteuergesetzes-2.md) — 2024-07-22 · Stellungnahme
+- [Stellungnahme zum Referentenentwurf eines Jahressteuergesetzes 2024](/stellungnahmen/2024/stellungnahme-zum-referentenentwurf-eines-jahressteuergesetzes-2024.md) — 2024-05-27 · Stellungnahme
+- [Stellungnahme zur BaFin-Konsultation für ein Merkblatt zur Übermittlung von Eintragungen im Vermögensverzeichnis](/stellungnahmen/2024/stellungnahme-zur-bafin-konsultation-fur-ein-merkblatt-zur-ubermittlun.md) — 2024-05-27 · Stellungnahme
+- [GDV wendet sich gegen drohende Verschärfung des Videoidentifizierungsverfahrens](/stellungnahmen/2024/gdv-wendet-sich-gegen-drohende-verscharfung-des-videoidentifizierungsv.md) — 2024-05-23 · Stellungnahme
+- [Stellungnahme zum Referentenentwurf für ein Gesetz zur nationalen Umsetzung der CSRD](/stellungnahmen/2024/stellungnahme-zum-referentenentwurf-fur-ein-gesetz-zur-nationalen-umse.md) — 2024-04-19 · Stellungnahme
+- [Solvency II - Hintergrund und Positionen der Versicherer](/stellungnahmen/2024/solvency-ii-hintergrund-und-positionen-der-versicherer.md) — 2024-03-26 · Positionspapier
+- [Stellungnahme zur EIOPA-Konsultation zur Verwendung von Benchmarks als Teil des Value for Money-Konzepts](/stellungnahmen/2024/stellungnahme-zur-eiopa-konsultation-zur-verwendung-von-benchmarks-als.md) — 2024-03-21 · Stellungnahme
+- [Stellungnahme zum Referentenentwurf für ein Bürokratieentlastungsgesetz](/stellungnahmen/2024/stellungnahme-zum-referentenentwurf-fur-ein-burokratieentlastungsgeset.md) — 2024-02-02 · Stellungnahme
+- [EU priorities for the 2024-2029 legislative period](/stellungnahmen/2024/eu-priorities-for-the-2024-2029-legislative-period.md) — 2024-01-05 · Positionspapier
+- [Stellungnahme zum Bundesdatenschutzgesetz](/stellungnahmen/2023/stellungnahme-zum-bundesdatenschutzgesetz.md) — 2023-09-07 · Stellungnahme
+- [Stellungnahme zu den Vorschlägen der EU-Kommission für eine europäische Kleinanlegerstrategie (Retail Investment Strategy, RIS)](/stellungnahmen/2023/stellungnahme-zu-den-vorschlagen-der-eu-kommission-fur-eine-europaisch.md) — 2023-08-23 · Stellungnahme
+- [Position paper on the EU Commission's proposals for a European retail investment strategy](/stellungnahmen/2023/position-paper-on-the-eu-commission-s-proposals-for-a-european-retail.md) — 2023-08-23 · Stellungnahme
+- [Stellungnahme zum Zukunftsfinanzierungsgesetz](/stellungnahmen/2023/stellungnahme-zum-zukunftsfinanzierungsgesetz.md) — 2023-08-16 · Stellungnahme
+- [Stellungnahme zum Rahmenwerk für den Zugang zu Finanzdaten („FiDA“)](/stellungnahmen/2023/stellungnahme-zum-rahmenwerk-fur-den-zugang-zu-finanzdaten-fida.md) — 2023-08-01 · Stellungnahme
+- [Stellungnahme zum Referentenentwurf zum Mindeststeuergesetz](/stellungnahmen/2023/stellungnahme-zum-referentenentwurf-zum-mindeststeuergesetz.md) — 2023-07-26 · Stellungnahme
+- [Stellungnahme zum Wachstumschancengesetz](/stellungnahmen/2023/stellungnahme-zum-wachstumschancengesetz.md) — 2023-07-26 · Stellungnahme
+- [Stellungnahme zur Umsetzung der Mindestbesteuerungsrichtlinie](/stellungnahmen/2023/stellungnahme-zur-umsetzung-der-mindestbesteuerungsrichtlinie.md) — 2023-06-05 · Stellungnahme
+- [Stellungnahme zum Entwurf für ein Zukunftsfinanzierungsgesetz](/stellungnahmen/2023/stellungnahme-zum-entwurf-fur-ein-zukunftsfinanzierungsgesetz.md) — 2023-06-01 · Stellungnahme
+- [Stellungnahme Pauschalreiserecht](/stellungnahmen/2023/stellungnahme-pauschalreiserecht.md) — 2023-05-29 · Stellungnahme
+- [Stellungnahme zum Insolvenzrecht](/stellungnahmen/2023/stellungnahme-zum-insolvenzrecht.md) — 2023-05-29 · Stellungnahme
+- [Stellungnahme Bauträger](/stellungnahmen/2023/stellungnahme-bautrager.md) — 2023-05-29 · Stellungnahme
+- [Stellungnahme zur Taxonomie-Konsultation der EU-Kommission](/stellungnahmen/2023/stellungnahme-zur-taxonomie-konsultation-der-eu-kommission.md) — 2023-05-04 · Stellungnahme
+- [Verbände äußern sich zur Mindeststeuerumsetzung](/stellungnahmen/2023/verbande-aussern-sich-zur-mindeststeuerumsetzung.md) — 2023-04-28 · Stellungnahme
+- [Juristische Einschätzung zur Befristung des Lösungsrechts](/stellungnahmen/2022/juristische-einschatzung-zur-befristung-des-losungsrechts.md) — 2022-06-27 · Stellungnahme
+- [Stellungnahme zum Richtlinien-Vorschlag der EU-Kommission zur Änderung der Fernabsatzregeln](/stellungnahmen/2022/stellungnahme-zum-richtlinien-vorschlag-der-eu-kommission-zur-anderung.md) — 2022-06-27 · Stellungnahme
+- [Stellungnahme zur Konsultation zur Funktionsfähigkeit des Marktes für ESG-Ratings (in Englisch)](/stellungnahmen/2022/stellungnahme-zur-konsultation-zur-funktionsfahigkeit-des-marktes-fur.md) — 2022-06-21 · Stellungnahme
+- [Gemeinsame Verbände-Stellungnahme zu 4. Corona-Steuerhilfegesetz](/stellungnahmen/2022/gemeinsame-verbande-stellungnahme-zu-4-corona-steuerhilfegesetz.md) — 2022-05-18 · Stellungnahme
+- [Positionspapier zum EU-Regulierungsrahmen für Künstliche Intelligenz (KI)](/stellungnahmen/2022/positionspapier-zum-eu-regulierungsrahmen-fur-kunstliche-intelligenz-k.md) — 2022-05-11 · Positionspapier
+- [Stellungnahme zum Entwurf einer Stellungnahme des Rechtsausschusses des EP zum geplanten EU-Regulierungsrahmen für KI](/stellungnahmen/2022/stellungnahme-zum-entwurf-einer-stellungnahme-des-rechtsausschusses-de.md) — 2022-04-04 · Stellungnahme
+- [Stellungnahme zur ESMA-Konsultation zu ESG-Ratingagenturen](/stellungnahmen/2022/stellungnahme-zur-esma-konsultation-zu-esg-ratingagenturen.md) — 2022-03-30 · Stellungnahme
+- [IASB-Draft for Disclosures of Subsidiaries without Public Accountability](/stellungnahmen/2022/iasb-draft-for-disclosures-of-subsidiaries-without-public-accountabili.md) — 2022-02-11 · Stellungnahme
+- [Disclosure Requirements in IFRS Standards – A Pilot Approach](/stellungnahmen/2022/disclosure-requirements-in-ifrs-standards-a-pilot-approach.md) — 2022-02-11 · Stellungnahme
+- [Post-Implementation Review of IFRS 9 Financial Instruments](/stellungnahmen/2022/post-implementation-review-of-ifrs-9-financial-instruments.md) — 2022-02-11 · Stellungnahme
+- [Positionspapier der Versicherungswirtschaft zur geplanten EU-Verordnung zu künstlicher Intelligenz](/stellungnahmen/2021/positionspapier-der-versicherungswirtschaft-zur-geplanten-eu-verordnun.md) — 2021-09-30 · Positionspapier
+- [Stellungnahme zu EU-Kommissionsvorschlag Green-Bond-Standard](/stellungnahmen/2021/stellungnahme-zu-eu-kommissionsvorschlag-green-bond-standard.md) — 2021-09-27 · Stellungnahme
+- [Stellungnahme zu Einrichtung eines International Sustainability Standards Board (ISSB) bei der IFRS Foundation](/stellungnahmen/2021/stellungnahme-zu-einrichtung-eines-international-sustainability-standa.md) — 2021-07-30 · Stellungnahme
+- [Stellungnahme im Rahmen der Better Regulation-Konsultation der EU-Kommission (auf Englisch)](/stellungnahmen/2021/stellungnahme-im-rahmen-der-better-regulation-konsultation-der-eu-komm.md) — 2021-07-19 · Stellungnahme
+- [Stellungnahme zur EIOPA-Konsultation "Open Insurance: Accessing and sharing insurance-related data"](/stellungnahmen/2021/stellungnahme-zur-eiopa-konsultation-open-insurance-accessing-and-shar.md) — 2021-04-30 · Stellungnahme
+- [Klimawandel und SII-Standardformel - Stellungnahme zu EIOPA-Diskussionspapier](/stellungnahmen/2021/klimawandel-und-sii-standardformel-stellungnahme-zu-eiopa-diskussionsp.md) — 2021-03-01 · Stellungnahme
+- [Stellungnahme VAG-E zu Nachschüssen für regulierte Pensionskassen](/stellungnahmen/2021/stellungnahme-vag-e-zu-nachschussen-fur-regulierte-pensionskassen.md) — 2021-02-19 · Stellungnahme
+- [Ecolabel für die Versicherungswirtschaft](/stellungnahmen/2020/ecolabel-fur-die-versicherungswirtschaft.md) — 2020-12-16 · Stellungnahme
+- [Digitalisierung, Daten und Künstliche Intelligenz](/stellungnahmen/2020/digitalisierung-daten-und-kunstliche-intelligenz.md) — 2020-11-27 · Stellungnahme
+- [Positionspapier](/stellungnahmen/2020/positionspapier.md) — 2020-11-06 · Positionspapier
+- [Solvency II-Konsultation der Kommission und GDV-Positionen](/stellungnahmen/2020/solvency-ii-konsultation-der-kommission-und-gdv-positionen.md) — 2020-10-22 · Stellungnahme
+- [Positionspapier zu Veröffentlichungspflichten unter der Taxonomieverordnung](/stellungnahmen/2020/positionspapier-zu-veroffentlichungspflichten-unter-der-taxonomieveror.md) — 2020-10-05 · Positionspapier
+- [Stellungnahme zu Roadmap der EU-Kommission zu Solvency-II-Review](/stellungnahmen/2020/stellungnahme-zu-roadmap-der-eu-kommission-zu-solvency-ii-review.md) — 2020-08-26 · Stellungnahme
+- [Stellungnahme des GDV zu ESMA-Konsultation Ratinginformationen](/stellungnahmen/2020/stellungnahme-des-gdv-zu-esma-konsultation-ratinginformationen.md) — 2020-08-14 · Stellungnahme
+- [GDV-Stellungnahme - Änderungen des Delegierten Rechtsakts IDD Nachhaltigkeit](/stellungnahmen/2020/gdv-stellungnahme-anderungen-des-delegierten-rechtsakts-idd-nachhaltig.md) — 2020-07-24 · Stellungnahme
+- [GDV-Stellungnahme - Änderungen des Delegierten Rechtsakts Solvency II Nachhaltigkeit](/stellungnahmen/2020/gdv-stellungnahme-anderungen-des-delegierten-rechtsakts-solvency-ii-na.md) — 2020-07-24 · Stellungnahme
+- [Stellungnahme zu EIOPA-Konsultation SII-Berichtspflichten](/stellungnahmen/2020/stellungnahme-zu-eiopa-konsultation-sii-berichtspflichten.md) — 2020-06-19 · Stellungnahme
+- [Stellungnahme zum Gemeinsamen Konsultationspapier über Änderungen des PRIIPs KID](/stellungnahmen/2020/stellungnahme-zum-gemeinsamen-konsultationspapier-uber-anderungen-des.md) — 2020-01-14 · Stellungnahme

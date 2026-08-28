@@ -1,0 +1,57 @@
+# Stellungnahmen 2026
+
+53 Dokument(e), neueste zuerst.
+
+- [Verbändeschreiben zum EU Steueromnibus](verbandeschreiben-zum-eu-steueromnibus.md) — 2026-08-05 · Stellungnahme · Steuern, Europa, Wirtschaft
+- [Stellungnahme zum Referentenentwurf des Frühstartrentengesetzes](stellungnahme-zum-referentenentwurf-des-fruhstartrentengesetzes.md) — 2026-07-31 · Stellungnahme · Rente & Vorsorge
+- [Vorschlag zur einheitlichen Berechnung der Effektivkosten von Altersvorsorgeprodukten](vorschlag-zur-einheitlichen-berechnung-der-effektivkosten-von-altersvo.md) — 2026-07-27 · Stellungnahme · Rente & Vorsorge
+- [AVRG: Branchenvorschlag für den Gesamtrisikoindikator und Performance-Szenarien](avrg-branchenvorschlag-fur-den-gesamtrisikoindikator-und-performance-s.md) — 2026-07-20 · Stellungnahme · Rente & Vorsorge
+- [Positionspapier zum Recht auf Vergessenwerden nach Krebs](positionspapier-zum-recht-auf-vergessenwerden-nach-krebs.md) — 2026-06-29 · Stellungnahme · Rente & Vorsorge, Regulierung
+- [GDV position on minimum common standards for Insurance Guarantee Schemes (IGS) in the EU](gdv-position-on-minimum-common-standards-for-insurance-guarantee-schem.md) — 2026-06-26 · Stellungnahme · Regulierung, Europa
+- [Ein neues Mindset im EU-Steuerrecht – Vorschläge zur Vereinfachung](ein-neues-mindset-im-eu-steuerrecht-vorschlage-zur-vereinfachung.md) — 2026-06-23 · Positionspapier · Regulierung, Steuern
+- [Vorschläge für eine Reform des Unternehmenssteuerrechts](vorschlage-fur-eine-reform-des-unternehmenssteuerrechts.md) — 2026-06-23 · Positionspapier · Regulierung, Steuern
+- [Das bAV-Basisprodukt – ein einfacher Standard für kleine Unternehmen](das-bav-basisprodukt-ein-einfacher-standard-fur-kleine-unternehmen.md) — 2026-06-16 · Positionspapier · Rente & Vorsorge, Betriebliche Altersversorgung
+- [Wirtschaft kritisiert Buchführungsdatenschnittstelle](wirtschaft-kritisiert-buchfuhrungsdatenschnittstelle.md) — 2026-06-16 · Stellungnahme · Regulierung
+- [Stellungnahme zum Strahlenschutzmodernisierungsgesetz](stellungnahme-zum-strahlenschutzmodernisierungsgesetz.md) — 2026-06-16 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zum Jahressteuergesetz 2026](stellungnahme-zum-jahressteuergesetz-2026.md) — 2026-06-15 · Stellungnahme · Regulierung
+- [Reform des Statusfeststellungsverfahrens](reform-des-statusfeststellungsverfahrens.md) — 2026-06-10 · Stellungnahme · Regulierung
+- [Stellungnahme zum Entwurf der Darlehensvermittlungsverordnung](stellungnahme-zum-entwurf-der-darlehensvermittlungsverordnung.md) — 2026-06-10 · Stellungnahme · Regulierung
+- [Stellungnahme zu den fachlichen Empfehlungen der EFRAG zum ESRS-Vereinfachungsauftrag (engl.)](stellungnahme-zu-den-fachlichen-empfehlungen-der-efrag-zum-esrs-verein.md) — 2026-06-03 · Positionspapier · Regulierung, Nachhaltigkeit
+- [Gemeinsame Verbände-Stellungnahme zum datenschutzrechtlichen Teil des Digitalen Omnibus](gemeinsame-verbande-stellungnahme-zum-datenschutzrechtlichen-teil-des.md) — 2026-05-28 · Stellungnahme · Digitalisierung, Regulierung
+- [Stellungnahme zum Referentenentwurf des Gesetzes zur Änderung des Fahrlehrergesetzes](stellungnahme-zum-referentenentwurf-des-gesetzes-zur-anderung-des-fahr.md) — 2026-05-27 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zur Änderung des Allgemeinen Gleichbehandlungsgesetzes](stellungnahme-zur-anderung-des-allgemeinen-gleichbehandlungsgesetzes.md) — 2026-05-26 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme zur Konsultation zu Exits und Sekundärmärkten (Englisch)](stellungnahme-zur-konsultation-zu-exits-und-sekundarmarkten-englisch.md) — 2026-05-26 · Stellungnahme · Regulierung
+- [Positionspapier (engl.): E6 insurance markets call for decisive action in support of a resilient and future-oriented EU economy](positionspapier-engl-e6-insurance-markets-call-for-decisive-action-in.md) — 2026-05-26 · Positionspapier · Regulierung
+- [Positionspapier zur GOT-Evaluierung](positionspapier-zur-got-evaluierung.md) — 2026-05-20 · Positionspapier · Schaden & Unfall
+- [Regierungsentwurf VSAAG - Positionen der Versicherungswirtschaft](regierungsentwurf-vsaag-positionen-der-versicherungswirtschaft.md) — 2026-05-19 · Stellungnahme · Regulierung
+- [Stellungnahme zum Gesetzentwurf für ein Versicherungs-Sanierungs-Abwicklungs-und- Aufsichtsänderungs-Gesetz (VSAAG)](stellungnahme-zum-gesetzentwurf-fur-ein-versicherungs-sanierungs-abwic.md) — 2026-05-19 · Stellungnahme · Regulierung
+- [Stellungnahme zum Referentenentwurf zur Änderung des Fahrlehrergesetzes sowie zum Referentenentwurf der Verordnung zur Modernisierung der Fahrschulausbildung](stellungnahme-zum-referentenentwurf-zur-anderung-des-fahrlehrergesetze.md) — 2026-05-19 · Stellungnahme · Schaden & Unfall
+- [Stellungnahme zum Entwurf der Darlehensvermittlungs-Verordnung](stellungnahme-zum-entwurf-der-darlehensvermittlungs-verordnung.md) — 2026-05-07 · Stellungnahme
+- [Stellungnahme zum Entwurf eines ersten Unternehmensstatistikreformgesetzes](stellungnahme-zum-entwurf-eines-ersten-unternehmensstatistikreformgese.md) — 2026-04-22 · Stellungnahme · Regulierung
+- [Stellungnahme zur Änderung des Allgemeinen Gleichbehandlungsgesetzes](stellungnahme-zur-anderung-des-allgemeinen-gleichbehandlungsgesetzes-198680.md) — 2026-04-22 · Stellungnahme · Rente & Vorsorge
+- [Anforderungen an einen wettbewerbskonformen Standarddepot-Vertrag in öffentlicher Trägerschaft](anforderungen-an-einen-wettbewerbskonformen-standarddepot-vertrag-in-o.md) — 2026-04-22 · Positionspapier · Rente & Vorsorge, Regulierung
+- [Stellungnahme zum Referentenentwurf für ein Digitale Identitätengesetz (DIdG)](stellungnahme-zum-referentenentwurf-fur-ein-digitale-identitatengesetz.md) — 2026-04-21 · Stellungnahme · Digitalisierung
+- [Offenlegungs-VO: GDV reicht Stellungnahme zu Vorschlägen für den Review ein](offenlegungs-vo-gdv-reicht-stellungnahme-zu-vorschlagen-fur-den-review.md) — 2026-04-21 · Stellungnahme · Regulierung, Nachhaltigkeit
+- [Positionspapier zur „Modernisierungsagenda für Staat und Verwaltung (Bund)"](positionspapier-zur-modernisierungsagenda-fur-staat-und-verwaltung-bun.md) — 2026-04-21 · Positionspapier · Regulierung
+- [Positionen zur „Modernisierungsagenda für Staat und Verwaltung (Bund)“ (Kurzversion)](positionen-zur-modernisierungsagenda-fur-staat-und-verwaltung-bund-kur.md) — 2026-04-21 · Positionspapier · Regulierung
+- [Stellungnahme zum Vorschlag für eine Überarbeitung der EbAV II-Richtlinie](stellungnahme-zum-vorschlag-fur-eine-uberarbeitung-der-ebav-ii-richtli.md) — 2026-04-20 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme zum Vorschlag der Europäischen Kommission zur Überarbeitung der PEPP-Verordnung](stellungnahme-zum-vorschlag-der-europaischen-kommission-zur-uberarbeit.md) — 2026-04-20 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme zur Änderung des Allgemeinen Gleichbehandlungsgesetzes](stellungnahme-zur-anderung-des-allgemeinen-gleichbehandlungsgesetzes-198530.md) — 2026-04-17 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme an die Alterssicherungskommission](stellungnahme-an-die-alterssicherungskommission.md) — 2026-04-17 · Stellungnahme · Rente & Vorsorge, Regulierung
+- [Stellungnahme zu den Änderungen der Bewertungskriterien bei der Taxonomieverordnung](stellungnahme-zu-den-anderungen-der-bewertungskriterien-bei-der-taxono.md) — 2026-04-16 · Stellungnahme · Regulierung, Nachhaltigkeit
+- [Stellungnahme zum Gesetzentwurf der Bundesregierung zur Änderung des Steuerberatungsgesetzes](stellungnahme-zum-gesetzentwurf-der-bundesregierung-zur-anderung-des-s.md) — 2026-04-15 · Stellungnahme · Regulierung
+- [Stellungnahme zum Referentenentwurf eines Gesetzes für mehr Gerechtigkeit durch die Stärkung der Zollverwaltung und die Bekämpfung der Finanzkriminalität](stellungnahme-zum-referentenentwurf-eines-gesetzes-fur-mehr-gerechtigk.md) — 2026-03-31 · Stellungnahme · Regulierung
+- [Stellungnahme zum Referentenentwurf für ein Altersvorsorgereformgesetz](stellungnahme-zum-referentenentwurf-fur-ein-altersvorsorgereformgesetz.md) — 2026-03-31 · Stellungnahme · Rente & Vorsorge
+- [Vorschläge zur Minimierung der rechtlichen Risiken im Rahmen des Altersvorsorgereformgesetzes](vorschlage-zur-minimierung-der-rechtlichen-risiken-im-rahmen-des-alter.md) — 2026-03-26 · Stellungnahme · Rente & Vorsorge
+- [Stellungnahme zum Entwurf eines Neunten Gesetzes zur Änderung des Steuerberatungsgesetzes](stellungnahme-zum-entwurf-eines-neunten-gesetzes-zur-anderung-des-steu.md) — 2026-03-25 · Stellungnahme · Regulierung
+- [Stellungnahme zu weiteren Vereinfachungen und Anpassungen bei der Mindeststeuer](stellungnahme-zu-weiteren-vereinfachungen-und-anpassungen-bei-der-mind.md) — 2026-03-25 · Stellungnahme · Regulierung
+- [Stellungnahme zum Entwurf eines Gesetzes zur Stärkung der Cybersicherheit](stellungnahme-zum-entwurf-eines-gesetzes-zur-starkung-der-cybersicherh.md) — 2026-03-25 · Stellungnahme · Digitalisierung, Schaden & Unfall
+- [Stellungnahme zu den Grundsätzen der Verwaltung für den Betriebsstättenbegriff](stellungnahme-zu-den-grundsatzen-der-verwaltung-fur-den-betriebsstatte.md) — 2026-03-23 · Stellungnahme · Steuern
+- [Ein neues Mindset im EU-Steuerrecht – Vorschläge zur Vereinfachung](ein-neues-mindset-im-eu-steuerrecht-vorschlage-zur-vereinfachung-197876.md) — 2026-03-17 · Positionspapier · Regulierung
+- [Stellungnahme zum Referentenentwurf für ein Versicherungssanierungs-, -abwicklungs- und -aufsichtsänderungsgesetz (VSAAG)](stellungnahme-zum-referentenentwurf-fur-ein-versicherungssanierungs-ab.md) — 2026-03-10 · Stellungnahme · Regulierung
+- [Positionspapier: Einstufung von Lithium-Batterien im Transport](positionspapier-einstufung-von-lithium-batterien-im-transport.md) — 2026-02-23 · Positionspapier · Schaden & Unfall
+- [Stellungnahme zur Modernisierung des Produkthaftungsrechts](stellungnahme-zur-modernisierung-des-produkthaftungsrechts.md) — 2026-01-23 · Stellungnahme · Schaden & Unfall
+- [Vorschläge zur Entbürokratisierung des Steuerrechts](vorschlage-zur-entburokratisierung-des-steuerrechts.md) — 2026-01-22 · Stellungnahme · Regulierung
+- [Beitrag zur Konsultation des Klimaschutzprogramms der Bundesregierung](beitrag-zur-konsultation-des-klimaschutzprogramms-der-bundesregierung.md) — 2026-01-14 · Stellungnahme · Nachhaltigkeit
+- [Comment on EFRAG’s technical advice on the ESRS simplification mandate](comment-on-efrags-technical-advice-on-the-esrs-simplification-mandate.md) — 2026-01-14 · Stellungnahme · Nachhaltigkeit, Regulierung
+- [Umsatzsteuerbefreiung für die Verpachtung von Betriebsvorrichtungen](umsatzsteuerbefreiung-fur-die-verpachtung-von-betriebsvorrichtungen.md) — 2026-01-08 · Stellungnahme · Regulierung
