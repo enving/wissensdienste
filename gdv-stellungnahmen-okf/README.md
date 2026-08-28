@@ -4,6 +4,14 @@ Dieses Repository macht die öffentlichen **Positionspapiere und Stellungnahmen 
 
 Single Point of Truth bleibt die GDV-Website. Maßgeblich ist immer das **Original-PDF**, das in jedem Konzept unter „Quelle" verlinkt ist; der eingebettete Text ist eine Konvenienz für die Suche.
 
+## Warum das auch ohne Technik-Hintergrund interessant ist
+
+Stell dir vor, du willst wissen: „Was hat der GDV eigentlich zum digitalen Euro gesagt, und hat sich die Haltung über die Jahre verändert?" Bisher: selbst durch hunderte PDFs wühlen oder jemanden fragen, der es zufällig weiß. Mit diesem Bündel: die Frage einem KI-Chat stellen, der an den MCP-Server angeschlossen ist. Der durchsucht knapp 350 offizielle Positionspapiere in Sekunden und belegt jede Aussage mit einem Link zum Original-PDF.
+
+Der entscheidende Unterschied zu einem gewöhnlichen Chatbot: die KI erfindet nichts aus vagem Modellwissen. Jede Antwort stützt sich ausschließlich auf die tatsächlich veröffentlichten Dokumente, mit Quellenangabe, chronologisch sortiert. So lässt sich auch nachvollziehen, ob und wie sich eine Position über die Zeit verändert hat, nicht nur, was aktuell gilt.
+
+Und das Muster ist nicht auf GDV-Stellungnahmen beschränkt: dieselbe Pipeline (Dokumente laden, in durchsuchbares KI-Wissen verwandeln, mit Quellenbelegen versehen) funktioniert für jede andere Sammlung von PDFs oder Webseiten, Gerichtsurteile, Gesetzestexte, Handbücher, Vereinssatzungen, was auch immer. Genau deshalb heißt das übergeordnete Repository `wissensdienste`.
+
 ## Was wurde gebaut
 
 Eine dreistufige, wiederholbare Pipeline (reines System-Python, keine Fremdbibliotheken, keine Node-Abhängigkeit) plus das erzeugte Bündel.
