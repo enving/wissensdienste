@@ -1,0 +1,4 @@
+# FastMCP bringt seinen eigenen Starlette/uvicorn-Stack für den streamable-HTTP-Transport mit.
+# Auf die hier geprüfte 3.x-Linie gepinnt (server.py nutzt die FastMCP-Kern-API:
+# @mcp.tool, @mcp.custom_route, mcp.run(transport="http"), instructions=...).
+fastmcp>=3.4,<4

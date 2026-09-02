@@ -1,0 +1,12 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Eingangsdaten der Pipeline (nicht Teil dieses Dienstes; wissen/ wird daraus erzeugt)
+knowledge_graph.json
+*.log
