@@ -23,10 +23,10 @@ Alle Skripte unter `scripts/`, System-Python, keine Fremd-Deps, idempotent:
 
 ## Die vier Nutzerfragen (User Stories), auf die alles einzahlt
 
-- **U1** Aktuelle Position der Versicherungswirtschaft zu Thema X (Informationsstand der Mitglieder).
+- **U1** Aktuelle Position der Versicherungswirtschaft zu Thema X.
 - **U2** Frühere GDV-Positionen zu einem geplanten Gesetz; hat sich die Position über die Zeit geändert?
 - **U3** Rote Linien / nicht verhandelbare Positionen (konkret: welche Statistiken wurden als unverzichtbar genannt, wenn Bürokratieabbau droht?).
-- **U4** Fachbereichsübergreifende Sicht: wer im Haus hat zu einem Thema Position bezogen?
+- **U4** Fachbereichsübergreifende Sicht: welche Fachbereiche haben zu einem Thema Position bezogen?
 
 Diese vier steuern Struktur und Register des Bündels. `verifikation_user_stories.md` dokumentiert einen End-to-End-Test dieser Fragen über den MCP-Server (kontextfreie Agenten).
 
